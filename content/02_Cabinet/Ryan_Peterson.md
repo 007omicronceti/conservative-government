@@ -1,0 +1,31 @@
+---
+title: "Ryan Peterson"
+type: cabinet_minister
+role: "Minister of Health"
+riding: "Coquitlam-Burke Mountain"
+ministry: "[[01_Positions/12_Health]]"
+parliamentary_secretary: "Tracy St. Claire (Parliamentary Secretary for Rural Health — Penticton-Summerland)"
+deputy_ministers:
+  - "[[02_People/Peter_Pokorny]]"
+oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
+cariboo_impact: "CRITICAL — $367M Cariboo Memorial Hospital redevelopment & 100 Mile ER staffing"
+status: verified
+tags:
+  - cabinet
+  - health
+---
+
+# Ryan Peterson
+
+## Role & Political Profile
+- **Office:** Minister of Health (sworn in November 20, 2026)
+- **Riding:** Coquitlam-Burke Mountain (newly elected in Oct 2026 with 52.44% / 10,771 votes).
+- **Rural Health Lead:** **Tracy St. Claire** (Penticton-Summerland) named Parliamentary Secretary for Rural Health.
+
+## Cariboo-Chilcotin Impact
+- Inherits Interior Health oversight just as **Cariboo Memorial Hospital ($367M)** enters Phase 1 operational commissioning (Fall 2026–Early 2027) and Phase 2 renovations (Spring 2027–2029), alongside urgent doctor/ER retention demands flagged by the **District of 100 Mile House** in its 2026 NCLGA resolution.
+
+## Original Source Articles
+1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
+2. [BC majority government with 64 new Conservative MLAs — Island Social Trends (2026-11-19)](https://islandsocialtrends.ca/bc-majority-government-with-64-new-conservative-mlas/)
+3. [Cariboo Memorial Hospital Redevelopment Project — Infrastructure BC](https://www.infrastructurebc.com/project/cariboo-memorial-hospital-redevelopment-project/)
