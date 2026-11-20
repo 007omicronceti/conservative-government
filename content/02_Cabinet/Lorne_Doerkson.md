@@ -1,38 +1,26 @@
 ---
-title: "Lorne Doerkson"
-type: cabinet_minister
-role: "38th Premier of British Columbia"
-riding: "Cariboo-Chilcotin"
-ministry: "[[01_Positions/01_Office_of_the_Premier]]"
-deputy_ministers:
-  - "[[02_People/Kim_Henderson]]"
-  - "[[02_People/Tom_McCarthy]]"
-oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
-cariboo_impact: "DIRECT — Home Riding MLA & Premier"
-status: verified
-tags:
-  - cabinet
-  - premier
-  - cariboo-chilcotin
+title: Lorne Doerkson
+role: 38th Premier of British Columbia; MLA, Cariboo-Chilcotin
+date: 2026-11-20
+tags: [premier, cabinet, cariboo-chilcotin, black-press, dripa]
 ---
 
 # Lorne Doerkson
+* **Current Role:** 38th Premier of B.C. (sworn in Nov 20, 2026); MLA for Cariboo-Chilcotin (2020, 2024, 2026). First Interior premier since Bill Bennett (1986).
+* **Office:** [[01_Positions/01_Office_of_the_Premier|Office of the Premier]] | **Deputy Premier:** [[02_Cabinet/Claire_Rattee|Claire Rattée]]
+* **Key Staff/Deputies:** [[02_People/Kim_Henderson|Kim Henderson]], [[02_People/Steve_Vanagas|Steve Vanagas]]
 
-## Role & Political Profile
-- **Office:** 38th Premier of British Columbia (sworn in November 20, 2026)
-- **Riding:** Cariboo-Chilcotin (elected 2020 as BC Liberal; crossed to BC Conservatives 2024; re-elected 2024 with 70.13% and 2026; became Interim Leader Sept 20, 2026).
-- **Historical Marker:** First Premier from the B.C. Interior since Bill Bennett left office in 1986.
+## Political Trajectory & Caucus Dynamics
+* **Party Path:** Elected 2020 (BC Liberal/BC United); crossed to BC Conservatives (2024); Assistant Deputy Speaker & Official Opposition Leader.
+* **2026 Snap Election:** Named interim leader days before Sept 22 snap call; won 63-seat majority (Oct 24, 2026).
+* **Coalition:** Brought [[02_Cabinet/Peter_Milobar|Peter Milobar]] back from CentreBC as Finance Minister; left Findlay loyalists (incl. Sheldon Clare) out of cabinet.
 
-## Background & Local Roots
-- Long-time Cariboo-Chilcotin resident; held executive roles with the **Williams Lake Stampede**, Chamber of Commerce, BC Community Newspaper Association, and Hough Memorial Cancer Society.
-- Introduced **Carter's Law** (May 13, 2024), a private member's bill to amend the B.C. Wildfire Act to protect British Columbians with respiratory conditions from wildfire smoke.
+## Pre-Political Career & Regional Network
+* **Media (20 yrs):** Newspaper publisher, **Black Press** (Cariboo/Williams Lake); executive, **BC Community Newspaper Association**.
+* **Finance:** Former financial consultant, **Investors Group**.
+* **Civic Ties:** Nearly 30-year Cariboo resident; Williams Lake Stampede, Chamber of Commerce (2x Community Booster Award), Hough Memorial Cancer Society.
 
-## Core Policy Mandates Affecting Cariboo-Chilcotin
-- **Resource Permitting:** Pledged to slash forestry and mining permit timelines and cut red tape.
-- **Indigenous Law:** Pledged to **repeal DRIPA** (Declaration on the Rights of Indigenous Peoples Act), a major flashpoint in the Cariboo-Chilcotin given Tsilhqot'in and Secwépemc title/rights litigation.
-- **Rural Health:** Pledged to keep rural hospital emergency rooms and maternity wards open.
-
-## Original Source Articles
-1. [Lorne Doerkson is B.C.'s new premier. Who is he? — CBC News (2026-10-25)](https://www.cbc.ca/news/canada/british-columbia/who-is-bc-premier-lorne-doerkson-9.7395130)
-2. [MLA: Lorne Doerkson — Legislative Assembly of BC](https://www.leg.bc.ca/members/43rd-Parliament/Doerkson-Lorne)
-3. [Lorne Doerkson — Wikipedia](https://en.wikipedia.org/wiki/Lorne_Doerkson)
+## Cariboo-Chilcotin Accountability Watchlist
+* **Healthcare:** Pledged to keep rural ERs open—direct test on [[03_Sources/Cariboo_Chilcotin/Dossier_Cariboo_Healthcare_CMH_100MileER|CMH ($367M) & 100 Mile ER]].
+* **DRIPA Repeal:** Impacts [[03_Sources/Cariboo_Chilcotin/Dossier_DRIPA_Repeal_Cariboo_Title|Cariboo Title]] (Tsilhqot'in, Secwepemc, Ulkatcho) in his own riding.
+* **Permitting:** Vowed to fast-track forestry/mining tied to [[03_Sources/Cariboo_Chilcotin/Dossier_Tolko_Cariboo_Timber|Tolko]] and [[03_Sources/Cariboo_Chilcotin/Dossier_Yellowhead_Copper_100Mile|Yellowhead Copper]].
