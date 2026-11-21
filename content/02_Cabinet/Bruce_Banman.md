@@ -30,7 +30,11 @@ tags:
 1. [Three Abbotsford MLAs appointed to B.C. cabinet — Abbotsford News (2026-11-20)](https://abbynews.com/2026/11/20/three-abbotsford-mlas-appointed-to-b-c-cabinet/)
 2. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Bruce_Banman__BANMAN_2025|BANMAN_2025]] ([PDF](/static/sources/Primary_Records/PDS/Bruce_Banman__BANMAN_2025.pdf))- [[05_Primary_Sources/PDS/Bruce_Banman__BANMAN_2026|BANMAN_2026]] ([PDF](/static/sources/Primary_Records/PDS/Bruce_Banman__BANMAN_2026.pdf))- [[05_Primary_Sources/PDS/Bruce_Banman__Banman_B_Union_Club_-_Gift_Declaration_Notice_14Jul25|Banman_B_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Bruce_Banman__Banman_B_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Bruce_Banman__BANMAN_2025|BANMAN_2025]] ([PDF](/static/sources/Primary_Records/PDS/Bruce_Banman__BANMAN_2025.pdf))
+- [[05_Primary_Sources/PDS/Bruce_Banman__BANMAN_2026|BANMAN_2026]] ([PDF](/static/sources/Primary_Records/PDS/Bruce_Banman__BANMAN_2026.pdf))
+- [[05_Primary_Sources/PDS/Bruce_Banman__Banman_B_Union_Club_-_Gift_Declaration_Notice_14Jul25|Banman_B_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Bruce_Banman__Banman_B_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

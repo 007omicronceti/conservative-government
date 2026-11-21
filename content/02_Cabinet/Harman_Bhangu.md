@@ -31,7 +31,12 @@ tags:
 1. [B.C. Conservatives appoint 24-member cabinet as Lorne Doerkson focuses on regions — Vancouver Sun (2026-11-20)](https://vancouversun.com/news/bc-conservatives-appoint-cabinet-as-doerkson-focuses-on-regional-representation)
 2. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Harman_Bhangu__BHANGU-_3Feb26|BHANGU-_3Feb26]] ([PDF](/static/sources/Primary_Records/PDS/Harman_Bhangu__BHANGU-_3Feb26.pdf))- [[05_Primary_Sources/PDS/Harman_Bhangu__BHANGU_2025|BHANGU_2025]] ([PDF](/static/sources/Primary_Records/PDS/Harman_Bhangu__BHANGU_2025.pdf))- [[05_Primary_Sources/PDS/Harman_Bhangu__BHANGU_2026|BHANGU_2026]] ([PDF](/static/sources/Primary_Records/PDS/Harman_Bhangu__BHANGU_2026.pdf))- [[05_Primary_Sources/PDS/Harman_Bhangu__Bhangu_H_-_Gift_Declaration_Notice_16Oct25|Bhangu_H_-_Gift_Declaration_Notice_16Oct25]] ([PDF](/static/sources/Primary_Records/PDS/Harman_Bhangu__Bhangu_H_-_Gift_Declaration_Notice_16Oct25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Harman_Bhangu__BHANGU-_3Feb26|BHANGU-_3Feb26]] ([PDF](/static/sources/Primary_Records/PDS/Harman_Bhangu__BHANGU-_3Feb26.pdf))
+- [[05_Primary_Sources/PDS/Harman_Bhangu__BHANGU_2025|BHANGU_2025]] ([PDF](/static/sources/Primary_Records/PDS/Harman_Bhangu__BHANGU_2025.pdf))
+- [[05_Primary_Sources/PDS/Harman_Bhangu__BHANGU_2026|BHANGU_2026]] ([PDF](/static/sources/Primary_Records/PDS/Harman_Bhangu__BHANGU_2026.pdf))
+- [[05_Primary_Sources/PDS/Harman_Bhangu__Bhangu_H_-_Gift_Declaration_Notice_16Oct25|Bhangu_H_-_Gift_Declaration_Notice_16Oct25]] ([PDF](/static/sources/Primary_Records/PDS/Harman_Bhangu__Bhangu_H_-_Gift_Declaration_Notice_16Oct25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

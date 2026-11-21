@@ -31,7 +31,10 @@ tags:
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [Island MLA appointed minister for local government, housing — Times Colonist (2026-11-20)](https://www.timescolonist.com/local-news/island-mla-appointed-minister-for-local-government-housing-13042927)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Anna_Kindy__KINDY_2025|KINDY_2025]] ([PDF](/static/sources/Primary_Records/PDS/Anna_Kindy__KINDY_2025.pdf))- [[05_Primary_Sources/PDS/Anna_Kindy__KINDY_2026|KINDY_2026]] ([PDF](/static/sources/Primary_Records/PDS/Anna_Kindy__KINDY_2026.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Anna_Kindy__KINDY_2025|KINDY_2025]] ([PDF](/static/sources/Primary_Records/PDS/Anna_Kindy__KINDY_2025.pdf))
+- [[05_Primary_Sources/PDS/Anna_Kindy__KINDY_2026|KINDY_2026]] ([PDF](/static/sources/Primary_Records/PDS/Anna_Kindy__KINDY_2026.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

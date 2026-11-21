@@ -33,7 +33,13 @@ tags:
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [MLA: Ward Stamer — Legislative Assembly of BC](https://www.leg.bc.ca/members/43rd-Parliament/Stamer-Ward)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Ward_Stamer__STAMER_2025|STAMER_2025]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__STAMER_2025.pdf))- [[05_Primary_Sources/PDS/Ward_Stamer__STAMER_2026|STAMER_2026]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__STAMER_2026.pdf))- [[05_Primary_Sources/PDS/Ward_Stamer__Stamer_W_-_Gift_Declaration_Notice_25Feb2025|Stamer_W_-_Gift_Declaration_Notice_25Feb2025]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__Stamer_W_-_Gift_Declaration_Notice_25Feb2025.pdf))- [[05_Primary_Sources/PDS/Ward_Stamer__Stamer_W_-_Gift_Declaration_Notice_4JUL25|Stamer_W_-_Gift_Declaration_Notice_4JUL25]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__Stamer_W_-_Gift_Declaration_Notice_4JUL25.pdf))- [[05_Primary_Sources/PDS/Ward_Stamer__Stamer_W_Union_Club_-_Gift_Declaration_Notice_14Jul25|Stamer_W_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__Stamer_W_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Ward_Stamer__STAMER_2025|STAMER_2025]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__STAMER_2025.pdf))
+- [[05_Primary_Sources/PDS/Ward_Stamer__STAMER_2026|STAMER_2026]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__STAMER_2026.pdf))
+- [[05_Primary_Sources/PDS/Ward_Stamer__Stamer_W_-_Gift_Declaration_Notice_25Feb2025|Stamer_W_-_Gift_Declaration_Notice_25Feb2025]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__Stamer_W_-_Gift_Declaration_Notice_25Feb2025.pdf))
+- [[05_Primary_Sources/PDS/Ward_Stamer__Stamer_W_-_Gift_Declaration_Notice_4JUL25|Stamer_W_-_Gift_Declaration_Notice_4JUL25]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__Stamer_W_-_Gift_Declaration_Notice_4JUL25.pdf))
+- [[05_Primary_Sources/PDS/Ward_Stamer__Stamer_W_Union_Club_-_Gift_Declaration_Notice_14Jul25|Stamer_W_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Ward_Stamer__Stamer_W_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

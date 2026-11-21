@@ -33,7 +33,14 @@ tags:
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [Lorne Doerkson becomes B.C.'s 38th premier, cabinet positions announced — Global News (2026-11-20)](https://globalnews.ca/news/12159369/lorne-doerkson-swearing-in/)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_-_12May26|DEW_-_12May26]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_-_12May26.pdf))- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_-_24Feb26|DEW_-_24Feb26]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_-_24Feb26.pdf))- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_-_31Mar26|DEW_-_31Mar26]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_-_31Mar26.pdf))- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_2025|DEW_2025]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_2025.pdf))- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_2026|DEW_2026]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_2026.pdf))- [[05_Primary_Sources/PDS/Gavin_Dew__Dew_G_Union_Club_-_Gift_Declaration_Notice_14Jul25|Dew_G_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__Dew_G_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_-_12May26|DEW_-_12May26]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_-_12May26.pdf))
+- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_-_24Feb26|DEW_-_24Feb26]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_-_24Feb26.pdf))
+- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_-_31Mar26|DEW_-_31Mar26]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_-_31Mar26.pdf))
+- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_2025|DEW_2025]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_2025.pdf))
+- [[05_Primary_Sources/PDS/Gavin_Dew__DEW_2026|DEW_2026]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__DEW_2026.pdf))
+- [[05_Primary_Sources/PDS/Gavin_Dew__Dew_G_Union_Club_-_Gift_Declaration_Notice_14Jul25|Dew_G_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Gavin_Dew__Dew_G_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

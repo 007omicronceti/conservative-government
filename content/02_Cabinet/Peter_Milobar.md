@@ -41,7 +41,11 @@ As Finance Minister, Milobar controls the provincial purse strings, tax policy, 
 - [Mission City Record — Premier Lorne Doerkson names B.C. Conservative caucus leadership team (Nov 20, 2026)](https://missioncityrecord.com/2026/11/20/premier-lorne-doerkson-names-b-c-conservative-caucus-leadership-team/)
 - [Conservative Party of BC 2026 Platform (PDF)](https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Peter_Milobar__MILOBAR_2025|MILOBAR_2025]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__MILOBAR_2025.pdf))- [[05_Primary_Sources/PDS/Peter_Milobar__MILOBAR_2026|MILOBAR_2026]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__MILOBAR_2026.pdf))- [[05_Primary_Sources/PDS/Peter_Milobar__Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25|Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Peter_Milobar__MILOBAR_2025|MILOBAR_2025]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__MILOBAR_2025.pdf))
+- [[05_Primary_Sources/PDS/Peter_Milobar__MILOBAR_2026|MILOBAR_2026]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__MILOBAR_2026.pdf))
+- [[05_Primary_Sources/PDS/Peter_Milobar__Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25|Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

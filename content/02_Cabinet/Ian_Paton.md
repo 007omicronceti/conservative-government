@@ -28,7 +28,11 @@ tags:
 1. [B.C. Conservatives form government as new cabinet ministers are sworn in — The Northern View (2026-11-20)](https://thenorthernview.com/2026/11/20/b-c-conservatives-form-government-as-new-cabinet-ministers-are-sworn-in/)
 2. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Ian_Paton__PATON-_5MAR26|PATON-_5MAR26]] ([PDF](/static/sources/Primary_Records/PDS/Ian_Paton__PATON-_5MAR26.pdf))- [[05_Primary_Sources/PDS/Ian_Paton__PATON_2025|PATON_2025]] ([PDF](/static/sources/Primary_Records/PDS/Ian_Paton__PATON_2025.pdf))- [[05_Primary_Sources/PDS/Ian_Paton__PATON_2026|PATON_2026]] ([PDF](/static/sources/Primary_Records/PDS/Ian_Paton__PATON_2026.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Ian_Paton__PATON-_5MAR26|PATON-_5MAR26]] ([PDF](/static/sources/Primary_Records/PDS/Ian_Paton__PATON-_5MAR26.pdf))
+- [[05_Primary_Sources/PDS/Ian_Paton__PATON_2025|PATON_2025]] ([PDF](/static/sources/Primary_Records/PDS/Ian_Paton__PATON_2025.pdf))
+- [[05_Primary_Sources/PDS/Ian_Paton__PATON_2026|PATON_2026]] ([PDF](/static/sources/Primary_Records/PDS/Ian_Paton__PATON_2026.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

@@ -28,7 +28,11 @@ tags:
 1. [B.C. Conservatives form government as new cabinet ministers are sworn in — The Northern View (2026-11-20)](https://thenorthernview.com/2026/11/20/b-c-conservatives-form-government-as-new-cabinet-ministers-are-sworn-in/)
 2. [New B.C. cabinet should be half women to represent province: prof — Times Colonist (2026-11-20)](https://www.timescolonist.com/local-news/new-bc-cabinet-should-be-half-women-to-represent-province-prof-13036678)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Aaliya_Warbus__WARBUS-_5Mar26|WARBUS-_5Mar26]] ([PDF](/static/sources/Primary_Records/PDS/Aaliya_Warbus__WARBUS-_5Mar26.pdf))- [[05_Primary_Sources/PDS/Aaliya_Warbus__WARBUS_2025|WARBUS_2025]] ([PDF](/static/sources/Primary_Records/PDS/Aaliya_Warbus__WARBUS_2025.pdf))- [[05_Primary_Sources/PDS/Aaliya_Warbus__WARBUS_2026|WARBUS_2026]] ([PDF](/static/sources/Primary_Records/PDS/Aaliya_Warbus__WARBUS_2026.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Aaliya_Warbus__WARBUS-_5Mar26|WARBUS-_5Mar26]] ([PDF](/static/sources/Primary_Records/PDS/Aaliya_Warbus__WARBUS-_5Mar26.pdf))
+- [[05_Primary_Sources/PDS/Aaliya_Warbus__WARBUS_2025|WARBUS_2025]] ([PDF](/static/sources/Primary_Records/PDS/Aaliya_Warbus__WARBUS_2025.pdf))
+- [[05_Primary_Sources/PDS/Aaliya_Warbus__WARBUS_2026|WARBUS_2026]] ([PDF](/static/sources/Primary_Records/PDS/Aaliya_Warbus__WARBUS_2026.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

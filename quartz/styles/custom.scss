@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+pre code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}

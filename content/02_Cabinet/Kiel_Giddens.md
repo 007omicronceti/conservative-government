@@ -35,7 +35,12 @@ tags:
 2. [Kiel Giddens — Wikipedia](https://en.wikipedia.org/wiki/Kiel_Giddens)
 3. [BC Election 2026 Completed Results — Island Social Trends (2026-11-08)](https://islandsocialtrends.ca/bc-election-2026-completed-results-conservatives-64-ndp-27-green-2/)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Kiel_Giddens__GIDDENS_-_15Aug25|GIDDENS_-_15Aug25]] ([PDF](/static/sources/Primary_Records/PDS/Kiel_Giddens__GIDDENS_-_15Aug25.pdf))- [[05_Primary_Sources/PDS/Kiel_Giddens__GIDDENS_2025|GIDDENS_2025]] ([PDF](/static/sources/Primary_Records/PDS/Kiel_Giddens__GIDDENS_2025.pdf))- [[05_Primary_Sources/PDS/Kiel_Giddens__GIDDENS_2026|GIDDENS_2026]] ([PDF](/static/sources/Primary_Records/PDS/Kiel_Giddens__GIDDENS_2026.pdf))- [[05_Primary_Sources/PDS/Kiel_Giddens__Giddens_K_-_Gift_Declaration_Notice_25Sep25|Giddens_K_-_Gift_Declaration_Notice_25Sep25]] ([PDF](/static/sources/Primary_Records/PDS/Kiel_Giddens__Giddens_K_-_Gift_Declaration_Notice_25Sep25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Kiel_Giddens__GIDDENS_-_15Aug25|GIDDENS_-_15Aug25]] ([PDF](/static/sources/Primary_Records/PDS/Kiel_Giddens__GIDDENS_-_15Aug25.pdf))
+- [[05_Primary_Sources/PDS/Kiel_Giddens__GIDDENS_2025|GIDDENS_2025]] ([PDF](/static/sources/Primary_Records/PDS/Kiel_Giddens__GIDDENS_2025.pdf))
+- [[05_Primary_Sources/PDS/Kiel_Giddens__GIDDENS_2026|GIDDENS_2026]] ([PDF](/static/sources/Primary_Records/PDS/Kiel_Giddens__GIDDENS_2026.pdf))
+- [[05_Primary_Sources/PDS/Kiel_Giddens__Giddens_K_-_Gift_Declaration_Notice_25Sep25|Giddens_K_-_Gift_Declaration_Notice_25Sep25]] ([PDF](/static/sources/Primary_Records/PDS/Kiel_Giddens__Giddens_K_-_Gift_Declaration_Notice_25Sep25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

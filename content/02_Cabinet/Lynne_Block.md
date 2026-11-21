@@ -28,7 +28,13 @@ tags:
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [New B.C. cabinet should be half women to represent province: prof — Times Colonist (2026-11-20)](https://www.timescolonist.com/local-news/new-bc-cabinet-should-be-half-women-to-represent-province-prof-13036678)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK-_3Feb26|BLOCK-_3Feb26]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK-_3Feb26.pdf))- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_-_10MAR26|BLOCK_-_10MAR26]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_-_10MAR26.pdf))- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_2025|BLOCK_2025]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_2025.pdf))- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_2026|BLOCK_2026]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_2026.pdf))- [[05_Primary_Sources/PDS/Lynne_Block__Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25|Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK-_3Feb26|BLOCK-_3Feb26]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK-_3Feb26.pdf))
+- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_-_10MAR26|BLOCK_-_10MAR26]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_-_10MAR26.pdf))
+- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_2025|BLOCK_2025]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_2025.pdf))
+- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_2026|BLOCK_2026]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_2026.pdf))
+- [[05_Primary_Sources/PDS/Lynne_Block__Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25|Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

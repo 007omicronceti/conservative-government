@@ -37,7 +37,11 @@ tags:
 2. [Larry Neufeld — Wikipedia](https://en.wikipedia.org/wiki/Larry_Neufeld)
 3. [Yellowhead Copper Project Detailed Project Description — BC EAO (2026-06-30)](https://projects.eao.gov.bc.ca/api/document/6a4442f3cf2284f379059300/fetch/20260630_Yellowhead%20Project_EA%20_DPD_Final.pdf)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Larry_Neufeld__NEUFELD_LARRY_2025|NEUFELD_LARRY_2025]] ([PDF](/static/sources/Primary_Records/PDS/Larry_Neufeld__NEUFELD_LARRY_2025.pdf))- [[05_Primary_Sources/PDS/Larry_Neufeld__NEUFELD_LARRY_2026|NEUFELD_LARRY_2026]] ([PDF](/static/sources/Primary_Records/PDS/Larry_Neufeld__NEUFELD_LARRY_2026.pdf))- [[05_Primary_Sources/PDS/Larry_Neufeld__Neufeld_L_Union_Club_-_Gift_Declaration_Notice_14Jul25|Neufeld_L_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Larry_Neufeld__Neufeld_L_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Larry_Neufeld__NEUFELD_LARRY_2025|NEUFELD_LARRY_2025]] ([PDF](/static/sources/Primary_Records/PDS/Larry_Neufeld__NEUFELD_LARRY_2025.pdf))
+- [[05_Primary_Sources/PDS/Larry_Neufeld__NEUFELD_LARRY_2026|NEUFELD_LARRY_2026]] ([PDF](/static/sources/Primary_Records/PDS/Larry_Neufeld__NEUFELD_LARRY_2026.pdf))
+- [[05_Primary_Sources/PDS/Larry_Neufeld__Neufeld_L_Union_Club_-_Gift_Declaration_Notice_14Jul25|Neufeld_L_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Larry_Neufeld__Neufeld_L_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

@@ -25,7 +25,14 @@ Born in Delta, B.C. in 1991, Claire Rattée moved to Kitimat in 2011, where she 
 * **Rural Shelters, Income Assistance & Addictions Support:** Oversees income/disability assistance rates, community social service contracts, and extreme-weather shelter funding affecting Williams Lake and 100 Mile House.
 * **Northern-Interior Cabinet Balance:** As Deputy Premier from northern B.C. (Skeena), pairs with Cariboo-Chilcotin Premier [[02_Cabinet/Lorne_Doerkson|Lorne Doerkson]] in setting regional rural priorities across northern and Interior communities.
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE-_22Jul25|RATTEE-_22Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE-_22Jul25.pdf))- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE_-_20Jan26|RATTEE_-_20Jan26]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE_-_20Jan26.pdf))- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE_-_2Jun26|RATTEE_-_2Jun26]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE_-_2Jun26.pdf))- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE_2025|RATTEE_2025]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE_2025.pdf))- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE_2026|RATTEE_2026]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE_2026.pdf))- [[05_Primary_Sources/PDS/Claire_Rattee__Rattee_C_Union_Club_-_Gift_Declaration_Notice_14Jul25|Rattee_C_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__Rattee_C_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE-_22Jul25|RATTEE-_22Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE-_22Jul25.pdf))
+- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE_-_20Jan26|RATTEE_-_20Jan26]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE_-_20Jan26.pdf))
+- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE_-_2Jun26|RATTEE_-_2Jun26]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE_-_2Jun26.pdf))
+- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE_2025|RATTEE_2025]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE_2025.pdf))
+- [[05_Primary_Sources/PDS/Claire_Rattee__RATTEE_2026|RATTEE_2026]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__RATTEE_2026.pdf))
+- [[05_Primary_Sources/PDS/Claire_Rattee__Rattee_C_Union_Club_-_Gift_Declaration_Notice_14Jul25|Rattee_C_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Claire_Rattee__Rattee_C_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

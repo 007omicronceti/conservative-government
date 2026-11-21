@@ -52,7 +52,10 @@ Because the Premier is also the local MLA for Cariboo-Chilcotin, every provincia
 3. **Tolko & 100 Mile Timber Supply:** Appointed former Tolko Industries VP and registered lobbyist [[03_Deputy_Ministers/Janis_Simpkins|Janis Simpkins]] as Deputy Minister of Forests while promising to fast-track permitting and stabilize fibre supply after mill closures in 100 Mile House and the Cariboo ([[04_Dossiers/Cariboo_Chilcotin/Dossier_Tolko_Cariboo_Timber|Tolko Dossier]]).
 4. **Yellowhead Copper & Cariboo Gold:** Oversees permitting acceleration affecting the [[04_Dossiers/Cariboo_Chilcotin/Dossier_Yellowhead_Copper_100Mile|Yellowhead Copper]] transmission tie-in to the 100 Mile House BC Hydro substation and labour/compliance disputes at the [[04_Dossiers/Cariboo_Chilcotin/Dossier_Cariboo_Gold_Project|Cariboo Gold Project]] in Wells.
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Lorne_Doerkson__DOERKSON_2025|DOERKSON_2025]] ([PDF](/static/sources/Primary_Records/PDS/Lorne_Doerkson__DOERKSON_2025.pdf))- [[05_Primary_Sources/PDS/Lorne_Doerkson__DOERKSON_2026|DOERKSON_2026]] ([PDF](/static/sources/Primary_Records/PDS/Lorne_Doerkson__DOERKSON_2026.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Lorne_Doerkson__DOERKSON_2025|DOERKSON_2025]] ([PDF](/static/sources/Primary_Records/PDS/Lorne_Doerkson__DOERKSON_2025.pdf))
+- [[05_Primary_Sources/PDS/Lorne_Doerkson__DOERKSON_2026|DOERKSON_2026]] ([PDF](/static/sources/Primary_Records/PDS/Lorne_Doerkson__DOERKSON_2026.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 PUBLIC DISCLOSURE STATEMENT

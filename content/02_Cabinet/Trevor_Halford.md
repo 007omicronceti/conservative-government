@@ -30,7 +30,10 @@ tags:
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [2026 Resolutions (R19: Highway 97) — NCLGA](https://www.nclga.ca/advocacy/2026-resolutions)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Trevor_Halford__HALFORD_2025|HALFORD_2025]] ([PDF](/static/sources/Primary_Records/PDS/Trevor_Halford__HALFORD_2025.pdf))- [[05_Primary_Sources/PDS/Trevor_Halford__HALFORD_2026|HALFORD_2026]] ([PDF](/static/sources/Primary_Records/PDS/Trevor_Halford__HALFORD_2026.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Trevor_Halford__HALFORD_2025|HALFORD_2025]] ([PDF](/static/sources/Primary_Records/PDS/Trevor_Halford__HALFORD_2025.pdf))
+- [[05_Primary_Sources/PDS/Trevor_Halford__HALFORD_2026|HALFORD_2026]] ([PDF](/static/sources/Primary_Records/PDS/Trevor_Halford__HALFORD_2026.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

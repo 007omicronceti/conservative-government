@@ -34,7 +34,11 @@ tags:
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [Donegal Wilson — Wikipedia](https://en.wikipedia.org/wiki/Donegal_Wilson)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Donegal_Wilson__WILSON_-_17Mar26|WILSON_-_17Mar26]] ([PDF](/static/sources/Primary_Records/PDS/Donegal_Wilson__WILSON_-_17Mar26.pdf))- [[05_Primary_Sources/PDS/Donegal_Wilson__WILSON_2025|WILSON_2025]] ([PDF](/static/sources/Primary_Records/PDS/Donegal_Wilson__WILSON_2025.pdf))- [[05_Primary_Sources/PDS/Donegal_Wilson__WILSON_2026|WILSON_2026]] ([PDF](/static/sources/Primary_Records/PDS/Donegal_Wilson__WILSON_2026.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Donegal_Wilson__WILSON_-_17Mar26|WILSON_-_17Mar26]] ([PDF](/static/sources/Primary_Records/PDS/Donegal_Wilson__WILSON_-_17Mar26.pdf))
+- [[05_Primary_Sources/PDS/Donegal_Wilson__WILSON_2025|WILSON_2025]] ([PDF](/static/sources/Primary_Records/PDS/Donegal_Wilson__WILSON_2025.pdf))
+- [[05_Primary_Sources/PDS/Donegal_Wilson__WILSON_2026|WILSON_2026]] ([PDF](/static/sources/Primary_Records/PDS/Donegal_Wilson__WILSON_2026.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT

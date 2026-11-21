@@ -29,7 +29,11 @@ tags:
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [Lorne Doerkson becomes B.C.'s 38th premier, cabinet positions announced — Global News (2026-11-20)](https://globalnews.ca/news/12159369/lorne-doerkson-swearing-in/)
 
-## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Kristina_Loewen__LOEWEN_2025|LOEWEN_2025]] ([PDF](/static/sources/Primary_Records/PDS/Kristina_Loewen__LOEWEN_2025.pdf))- [[05_Primary_Sources/PDS/Kristina_Loewen__LOEWEN_2026|LOEWEN_2026]] ([PDF](/static/sources/Primary_Records/PDS/Kristina_Loewen__LOEWEN_2026.pdf))- [[05_Primary_Sources/PDS/Kristina_Loewen__Loewen_K_Union_Club_-_Gift_Declaration_Notice_14Jul25|Loewen_K_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Kristina_Loewen__Loewen_K_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+## Primary COI & Gift Disclosures (2025–2026)
+
+- [[05_Primary_Sources/PDS/Kristina_Loewen__LOEWEN_2025|LOEWEN_2025]] ([PDF](/static/sources/Primary_Records/PDS/Kristina_Loewen__LOEWEN_2025.pdf))
+- [[05_Primary_Sources/PDS/Kristina_Loewen__LOEWEN_2026|LOEWEN_2026]] ([PDF](/static/sources/Primary_Records/PDS/Kristina_Loewen__LOEWEN_2026.pdf))
+- [[05_Primary_Sources/PDS/Kristina_Loewen__Loewen_K_Union_Club_-_Gift_Declaration_Notice_14Jul25|Loewen_K_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Kristina_Loewen__Loewen_K_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
 ### 2026 Public Disclosure Statement
 ```text
 DISCLOSURE STATEMENT
