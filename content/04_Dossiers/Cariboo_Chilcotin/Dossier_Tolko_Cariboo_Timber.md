@@ -1,5 +1,5 @@
 ---
-title: "Deep Dive: Tolko Industries Ltd. & Cariboo Timber Supply"
+title: "Tolko Industries Ltd. & Cariboo Timber Supply"
 type: project-dossier
 region: "100 Mile House TSA / Williams Lake TSA / Quesnel TSA"
 key_entities:
@@ -14,7 +14,7 @@ tags:
   - conflict-of-interest
 ---
 
-# Deep Dive: Tolko Industries Ltd. & Cariboo Timber Supply
+# Tolko Industries Ltd. & Cariboo Timber Supply
 
 ## Operational Footprint in the Cariboo-Chilcotin
 - **Cariboo Woodlands Division:** Manages **2,054,626 hectares** of forest tenure and fibre supply across the **100 Mile House TSA**, **Williams Lake TSA**, and **Quesnel TSA** (office: 180 Hodgson Rd, Williams Lake; Forest Stewardship Plan **FSP #780**).

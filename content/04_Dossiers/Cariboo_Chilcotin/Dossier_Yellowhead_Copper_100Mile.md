@@ -1,5 +1,5 @@
 ---
-title: "Deep Dive: Yellowhead Copper Project & 100 Mile House Substation"
+title: "Yellowhead Copper Project & 100 Mile House Substation"
 type: project-dossier
 region: "Cariboo Regional District (100 Mile House) / TNRD"
 proponent: "Taseko Mines Limited (Yellowhead Mining Inc.)"
@@ -21,7 +21,7 @@ tags:
   - mining
 ---
 
-# Deep Dive: Yellowhead Copper Project & 100 Mile House Substation
+# Yellowhead Copper Project & 100 Mile House Substation
 
 ## Project Overview & 100 Mile House Nexus
 - **Mine Scale:** Proposed 90,000 tonnes-per-day open-pit copper-gold-silver mine (42,350 ha of mineral claims + mining lease valid to June 2050) near Vavenby/Birch Island.

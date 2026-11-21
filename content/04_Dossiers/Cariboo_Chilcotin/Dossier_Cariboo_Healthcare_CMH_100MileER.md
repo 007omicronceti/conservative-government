@@ -1,5 +1,5 @@
 ---
-title: "Deep Dive: Cariboo Memorial Hospital ($367M) & 100 Mile House ER"
+title: "Cariboo Memorial Hospital ($367M) & 100 Mile House ER"
 type: project-dossier
 region: "Williams Lake / 100 Mile House (Interior Health)"
 proponent: "Interior Health Authority / Infrastructure BC / Graham Design Builders LP"
@@ -16,7 +16,7 @@ tags:
   - interior-health
 ---
 
-# Deep Dive: Cariboo Memorial Hospital ($367M) & 100 Mile House ER
+# Cariboo Memorial Hospital ($367M) & 100 Mile House ER
 
 
 ~/Conservative_Government/03_Sources/OIC/pull_oics.sh
@@ -36,7 +36,7 @@ curl -L -o ~/Conservative_Government/03_Sources/Cariboo_Chilcotin/CRD_Hwy97_Reso
 # 2. Write the Highway 97 & Cariboo Road Recovery Dossier
 cat << 'EOF' > ~/Conservative_Government/03_Sources/Cariboo_Chilcotin/Dossier_Highway97_Cariboo_Connector.md
 ---
-title: "Deep Dive: Highway 97, Cariboo Road Recovery & Quesnel Interconnector"
+title: "Highway 97, Cariboo Road Recovery & Quesnel Interconnector"
 type: project-dossier
 region: "Cariboo-Chilcotin (100 Mile House / Williams Lake / Quesnel)"
 proponent: "Ministry of Transportation and Infrastructure / Dawson Civil Ltd."
@@ -55,7 +55,7 @@ tags:
   - infrastructure
 ---
 
-# Deep Dive: Highway 97, Cariboo Road Recovery & Quesnel Interconnector
+# Highway 97, Cariboo Road Recovery & Quesnel Interconnector
 
 ## Active Capital & Slide-Recovery Projects (November 2026)
 - **Highway 97 at Cottonwood Hill ($37.5M Phase 3):** 18 km north of Quesnel. Phases 1 (groynes) and 2 (realignment/crest unloading) complete. Phase 3 downslope pile-driving stabilization awarded to **Dawson Civil Ltd.** (Jan 7, 2026); scheduled for full completion in **Spring 2027**.

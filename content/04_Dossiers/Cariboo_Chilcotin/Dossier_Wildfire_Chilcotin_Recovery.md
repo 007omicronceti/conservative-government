@@ -1,5 +1,5 @@
 ---
-title: "Deep Dive: 100 Mile Wildfire Fuel Breaks & Chilcotin River Landslide Recovery"
+title: "100 Mile Wildfire Fuel Breaks & Chilcotin River Landslide Recovery"
 type: project-dossier
 region: "100 Mile House Natural Resource District / Chilcotin River"
 key_entities:
@@ -19,7 +19,7 @@ tags:
   - emergency-management
 ---
 
-# Deep Dive: 100 Mile Wildfire Fuel Breaks & Chilcotin River Landslide Recovery
+# 100 Mile Wildfire Fuel Breaks & Chilcotin River Landslide Recovery
 
 ## Active 100 Mile House Wildfire Risk Reduction (Winter 2026/27)
 - **Watch Lake Interface Fuel Break:** 39.4 ha total project (3 ha pile burning; ~100 piles, ignitions Nov 5, 2026 – Mar 31, 2027), 25 km SE of 100 Mile House adjacent to Watch Lake and Green Lake residences.

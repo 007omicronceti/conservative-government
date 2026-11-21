@@ -1,5 +1,5 @@
 ---
-title: "Deep Dive: Cariboo Gold Project (Wells / Barkerville)"
+title: "Cariboo Gold Project (Wells / Barkerville)"
 type: project-dossier
 region: "District of Wells / Cariboo Regional District"
 proponent: "Osisko Gold Group Inc. / Barkerville Gold Mines Ltd."
@@ -21,7 +21,7 @@ tags:
   - wells
 ---
 
-# Deep Dive: Cariboo Gold Project (Wells / Barkerville)
+# Cariboo Gold Project (Wells / Barkerville)
 
 ## Project Status (November 2026)
 - **Construction Progress:** Formal positive construction decision announced September 14, 2026. As of October 27, 2026, the project is ~28% complete ($355M incurred to Sept 30, 2026; ~$907M remaining), with first gold pour targeted for Q1 2029 and commercial production in H2 2029.

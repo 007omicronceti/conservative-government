@@ -1,5 +1,5 @@
 ---
-title: "Deep Dive: DRIPA Repeal, Aboriginal Title & Cariboo-Chilcotin Land Certainty"
+title: "DRIPA Repeal, Aboriginal Title & Cariboo-Chilcotin Land Certainty"
 type: project-dossier
 region: "Cariboo-Chilcotin (Tsilhqot'in & Secwépemc Territories)"
 key_entities:
@@ -19,7 +19,7 @@ tags:
   - cariboo-chilcotin
 ---
 
-# Deep Dive: DRIPA Repeal, Aboriginal Title & Cariboo-Chilcotin Land Certainty
+# DRIPA Repeal, Aboriginal Title & Cariboo-Chilcotin Land Certainty
 
 ## Political Mandate & Legislative Record
 - **Premier's Campaign Pledge:** Premier [[02_Cabinet/Lorne_Doerkson]] pledged during the 2026 election to repeal the *Declaration on the Rights of Indigenous Peoples Act* (DRIPA), flagged by the First Nations Leadership Council in its October 21, 2026 election package.
