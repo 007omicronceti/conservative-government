@@ -3,6 +3,12 @@ import os, re
 ROSTER_PATH = "content/00_Index/Master_Roster_2026.md"
 AUDIT_PATH = "content/00_Index/Coverage_Gap_Audit_2026.md"
 
+def split_md_row(line: str) -> list[str]:
+    # Protect pipes inside [[...]] wikilinks before splitting on table pipes
+    protected = re.sub(r"\[\[([^\]]+)\]\]", lambda m: "[[" + m.group(1).replace("|", "§§") + "]]", line.strip())
+    parts = [c.strip().replace("§§", "|") for c in protected.strip("|").split("|")]
+    return parts
+
 def main():
     lines = open(ROSTER_PATH, encoding="utf-8").read().splitlines()
     data_rows = [ln for ln in lines if ln.startswith("| [[")]
@@ -12,7 +18,7 @@ def main():
     no_fr = []
 
     for ln in data_rows:
-        cols = [c.strip() for c in ln.strip("|").split("|")]
+        cols = split_md_row(ln)
         if len(cols) < 9:
             continue
         prof, role, pds, orl, sa1a, sa1, pa, pds_pa, fr = cols[:9]
@@ -24,6 +30,11 @@ def main():
             no_fr.append((prof, role, pds, orl, pa))
 
     out = [
+        "---",
+        'title: "Coverage Gap Audit 2026 — B.C. Conservative Government Vault"',
+        "date: 2026-11-20",
+        "---",
+        "",
         "# Coverage Gap Audit 2026 — B.C. Conservative Government Vault",
         "",
         f"- **Total Roster Profiles Audited:** {len(data_rows)}",
