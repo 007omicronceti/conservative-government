@@ -1,3 +1,8 @@
+---
+title: "B.C. Public Accounts 2025/26 — Parsed Compensation & Travel Schedules"
+date: 2026-11-20
+---
+
 # B.C. Public Accounts 2025/26 — Parsed Compensation & Travel Schedules
 
 - **Source:** `pa-2025-26-crf-detailed-schedules-of-payments.pdf`

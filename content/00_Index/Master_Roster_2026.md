@@ -1,3 +1,8 @@
+---
+title: "Master Roster 2026 — B.C. Conservative Government OSINT Index"
+date: 2026-11-20
+---
+
 # Master Roster 2026 — B.C. Conservative Government OSINT Index
 
 - **Total Profiles:** 49

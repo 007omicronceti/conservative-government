@@ -1,3 +1,8 @@
+---
+title: "Coverage Gap Audit 2026 — B.C. Conservative Government Vault"
+date: 2026-11-20
+---
+
 # Coverage Gap Audit 2026 — B.C. Conservative Government Vault
 
 - **Total Roster Profiles Audited:** 49
