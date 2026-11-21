@@ -1,13 +1,8 @@
----
-title: "Elections BC Financial Reports (FRSearch.aspx) Sweep"
-date: 2026-11-20
----
-
 # Elections BC Financial Reports (`FRSearch.aspx`) Sweep
 
 - **Endpoint:** `https://contributions.electionsbc.gov.bc.ca/pcs/frsearch.aspx`
 - **Profiles Scanned:** 49
-- **Surname Fallback Queries Sent:** 31 | **Request Errors:** 0
+- **Surname Fallback Queries Sent:** 0 | **Request Errors:** 0
 - **Profiles with Matched Report Rows:** 23 / 49
 
 ### Aaliya_Warbus (Cabinet) — 1 row(s)

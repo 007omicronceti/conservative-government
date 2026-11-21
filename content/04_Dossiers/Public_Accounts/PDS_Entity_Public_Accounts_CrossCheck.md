@@ -1,8 +1,3 @@
----
-title: "PDS Disclosed Entities vs. B.C. Public Accounts 2025/26 Cross-Check"
-date: 2026-11-20
----
-
 # PDS Disclosed Entities vs. B.C. Public Accounts 2025/26 Cross-Check
 
 - **Source Schedule Text:** `data_cache/pa_2025_26_layout.txt`
