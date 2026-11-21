@@ -18,3 +18,8 @@
 - `03_Deputy_Ministers/` (24)
 - `04_Dossiers/` (3)
 - `05_Primary_Sources/PDS/` (68)
+
+### New OSINT Dossiers & Audits (2025/26)
+- [[00_Index/Coverage_Gap_Audit_2026|Coverage Gap Audit 2026]]
+- [[00_Index/PDS_Gap_Breakdown_2026|PDS / COI Filing Gap Breakdown 2026]]
+- [[04_Dossiers/Public_Accounts/Travel_and_Allowances_Ranking_2025_26|2025/26 Travel, Compensation & Allowances Ranking]]

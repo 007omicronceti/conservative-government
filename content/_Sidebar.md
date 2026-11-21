@@ -11,3 +11,8 @@
 - [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Elections BC Sweep]]
 - [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Cabinet & DM ORL Sweep]]
 - [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Sweep|Public Accounts 2025/26 Sweep]]
+
+### New OSINT Dossiers & Audits (2025/26)
+- [[00_Index/Coverage_Gap_Audit_2026|Coverage Gap Audit 2026]]
+- [[00_Index/PDS_Gap_Breakdown_2026|PDS / COI Filing Gap Breakdown 2026]]
+- [[04_Dossiers/Public_Accounts/Travel_and_Allowances_Ranking_2025_26|2025/26 Travel, Compensation & Allowances Ranking]]
