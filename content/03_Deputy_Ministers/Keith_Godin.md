@@ -24,3 +24,11 @@ tags:
 ## Verified Sources
 - [Province of B.C. — Deputy Ministers' Council of British Columbia (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 - [CSSEA — CEO Update: Government Social Service Delivery Consultation (Aug 25, 2026)](https://www.cssea.bc.ca/News/CEO-Update/Articles/CEO-Update---August-2026)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **0** | Lobbying Activity Reports (LAR) row matches: **43**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Keith_Godin ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$324,415** | Travel: **$12,507**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Keith_Godin Public Accounts Breakdown]]

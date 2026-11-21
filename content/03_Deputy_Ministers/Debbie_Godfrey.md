@@ -21,3 +21,11 @@ She acts as the chief human resources executive for the core provincial public s
 ## Verified Sources
 - [Province of B.C. — Deputy Ministers' Council (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 - [Province of B.C. — BC Public Service Agency](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/bc-public-service-agency)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **40** | Lobbying Activity Reports (LAR) row matches: **43**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Debbie_Godfrey ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$300,156** | Travel: **$1,879**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Debbie_Godfrey Public Accounts Breakdown]]

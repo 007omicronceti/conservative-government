@@ -30,3 +30,7 @@ tags:
 ## Original Source Articles
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [Lorne Doerkson becomes B.C.'s 38th premier, cabinet positions announced — Global News (2026-11-20)](https://globalnews.ca/news/12159369/lorne-doerkson-swearing-in/)
+
+## Elections BC Contributions
+- `SA1Search.aspx`: **1** rows (**$500.00**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Cathie_Ounsted Elections BC Matches]]

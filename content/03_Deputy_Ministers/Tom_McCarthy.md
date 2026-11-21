@@ -31,3 +31,11 @@ tags:
 2. [Office of the Premier — Province of British Columbia (2025-09-15)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/office-of-the-premier)
 3. [Governance Toolkit — BC Assembly of First Nations (2011)](https://www.bcafn.ca/sites/default/files/docs/Governance-Toolkit.pdf)
 4. [SFU Public Policy Program Alumni Profiles (Needs secondary confirmation)](https://www.sfu.ca/mpp/archive/01about_us/alumni.html)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **70** | Lobbying Activity Reports (LAR) row matches: **433**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Tom_McCarthy ORL Matches]]
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **9** rows (**$2,100.00**) | `SA1Search.aspx`: **9** rows (**$2,100.00**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Tom_McCarthy Elections BC Matches]]

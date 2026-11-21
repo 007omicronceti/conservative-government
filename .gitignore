@@ -18,3 +18,4 @@ content/03_Sources/**/*.html
 content/03_Sources/**/*.sh
 content/03_Sources/Public_Accounts/*.pdf
 content/03_Sources/Cariboo_Chilcotin/*.pdf
+__pycache__/

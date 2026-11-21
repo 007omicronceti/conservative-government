@@ -31,3 +31,11 @@ tags:
 ## Original Source Articles
 1. [B.C. Conservatives form government as new cabinet ministers are sworn in — The Northern View (2026-11-20)](https://thenorthernview.com/2026/11/20/b-c-conservatives-form-government-as-new-cabinet-ministers-are-sworn-in/)
 2. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **2** | Lobbying Activity Reports (LAR) row matches: **0**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Jessy_Sahota ORL Matches]]
+
+## Elections BC Contributions
+- `SA1Search.aspx`: **2** rows (**$310.00**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Jessy_Sahota Elections BC Matches]]

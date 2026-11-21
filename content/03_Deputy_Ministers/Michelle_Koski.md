@@ -30,3 +30,11 @@ tags:
 ## Original Source Articles
 1. [Ministry of Agriculture and Food Contacts — Gov.bc.ca (2026-11-10)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/agriculture/ministry-contacts)
 2. [Ministry hires deputy ministers — Country Life in BC (2023-01-11)](https://www.countrylifeinbc.com/ministry-hires-deputy-ministers/)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **39** | Lobbying Activity Reports (LAR) row matches: **126**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Michelle_Koski ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$260,804** | Travel: **$36,453**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Michelle_Koski Public Accounts Breakdown]]

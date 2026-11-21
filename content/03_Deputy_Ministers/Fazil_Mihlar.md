@@ -22,3 +22,11 @@ tags: [deputy-minister, economic-development, tourism]
 ## Verified Sources
 - [Province of B.C. — Deputy Ministers' Council (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 - [BC Gov News — Senior public service appointments (2016 Archive)](https://news.gov.bc.ca/releases/2016PREM0026-000436)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **308** | Lobbying Activity Reports (LAR) row matches: **1168**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Fazil_Mihlar ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$341,855** | Travel: **$30,474**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Fazil_Mihlar Public Accounts Breakdown]]

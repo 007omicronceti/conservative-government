@@ -32,3 +32,7 @@ tags:
 2. [Ministry of Education and Child Care — Province of British Columbia (2026-07-22)](https://gov.bc.ca/ecc)
 3. [Ministry of Municipal Affairs and Housing Transition Binder 2020 — OpenInfo BC](http://docs.openinfo.gov.bc.ca/DA24219_Transition_Binder_Ministry_of_Municipal_Affairs_December_2020.pdf)
 4. [Vancouver GM hired as B.C. deputy minister of municipal affairs and housing — Vancouver Is Awesome (2019-01-30)](https://www.vancouverisawesome.com/courier-archive/news/vancouver-gm-hired-as-bc-deputy-minister-of-municipal-affairs-and-housing-3092659)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **103** | Lobbying Activity Reports (LAR) row matches: **237**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Kaye_Krishna ORL Matches]]

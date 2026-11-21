@@ -22,3 +22,15 @@ tags: [deputy-minister, finance, budget, treasury-board]
 ## Verified Sources
 - [Province of B.C. — Deputy Ministers' Council (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 - [Office of the Registrar of Lobbyists B.C. — Lobbying Activity Report 6784-54848 (Oct 26, 2026)](https://www.lobbyistsregistrar.bc.ca/app/secure/orl/lrs/do/cmmLgPblcVw?comlogId=54848)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **1304** | Lobbying Activity Reports (LAR) row matches: **220**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Heather_Wood ORL Matches]]
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **1** rows (**$1,500.00**) | `SA1Search.aspx`: **1** rows (**$1,500.00**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Heather_Wood Elections BC Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$341,016** | Travel: **$24,133**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Heather_Wood Public Accounts Breakdown]]

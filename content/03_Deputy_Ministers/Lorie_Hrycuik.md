@@ -35,3 +35,11 @@ tags:
 2. [FOI Response Package FOR-2023-32635 — OpenInfo BC (2023-06-16)](http://docs.openinfo.gov.bc.ca/Response_Package_FOR-2023-32635.pdf)
 3. [Public Accounts Committee Hansard — Legislative Assembly of BC (2019-12-17)](https://www.leg.bc.ca/hansard-content/Committees/41st4th/pac/20191217am-PublicAccounts-Vancouver-n23.html)
 4. [UBCM Minister Meeting Fact Sheet (FOI HTH-2019-96677) — OpenInfo BC (2019-08-27)](http://docs.openinfo.gov.bc.ca/Response_Package_HTH-2019-96677.pdf)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **4** | Lobbying Activity Reports (LAR) row matches: **100**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Lorie_Hrycuik ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$253,770** | Travel: **$6,994**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Lorie_Hrycuik Public Accounts Breakdown]]

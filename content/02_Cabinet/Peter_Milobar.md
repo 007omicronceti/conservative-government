@@ -40,3 +40,97 @@ As Finance Minister, Milobar controls the provincial purse strings, tax policy, 
 - [Counsel Public Affairs — Doerkson's First Cabinet Explained (Nov 20, 2026)](https://counselpa.com/insights/bc-new-cabinet/)
 - [Mission City Record — Premier Lorne Doerkson names B.C. Conservative caucus leadership team (Nov 20, 2026)](https://missioncityrecord.com/2026/11/20/premier-lorne-doerkson-names-b-c-conservative-caucus-leadership-team/)
 - [Conservative Party of BC 2026 Platform (PDF)](https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf)
+
+## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Peter_Milobar__MILOBAR_2025|MILOBAR_2025]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__MILOBAR_2025.pdf))- [[05_Primary_Sources/PDS/Peter_Milobar__MILOBAR_2026|MILOBAR_2026]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__MILOBAR_2026.pdf))- [[05_Primary_Sources/PDS/Peter_Milobar__Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25|Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Peter_Milobar__Milobar_P_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+### 2026 Public Disclosure Statement
+```text
+DISCLOSURE STATEMENT
+               Pursuant to Section 17 of the Members' Conflict of Interest Act
+            with Respect to the Assets, Liabilities, and Financial Interests, etc. of
+                           PETER MILOBAR, MLA and Spouse
+                                  As at February 13, 2026
+
+
+SOURCES OF INCOME
+
+     From the Province of British Columbia
+            (Member) MLA salary and allowances
+            (Spouse) Nil
+
+     From all Other Sources
+            (Member) Nil
+            (Spouse) Shuswap Nation Tribal Council - on call salary
+
+
+ASSETS
+
+     Residential Property (Member & Spouse) - Kamloops, BC
+
+     Recreational Property (Member & Spouse) - Cabin on Shuswap Lake, BC - shared with
+     family members
+
+     Bank and Other Deposits (Member & Spouse)
+
+     Other Investments held Inside a Registered Plan
+            (Member) TD - RRSP - Cash
+
+     Securities and Other Interests in Public Corporations
+              (Member) - Hydropothecary (THCX) - shares
+
+     Other Financial Assets
+            (Member & Spouse) - Life Insurance
+
+
+LIABILITIES
+
+     Mortgage (Member & Spouse) - on residential property in Kamloops, BC - CIBC
+
+     Other Liabilities
+            (Member) - Credit Card - RBC
+            (Member & Spouse) - Credit Card - TD
+GIFTS DISCLOSED PURSUANT TO SECTION 7(3)
+
+(Gifts or personal benefits received by the Member as an incident of the protocol or social obligations
+accompanying the responsibilities of office but which exceed 250.00 in value)
+
+Complimentary membership to the Union Club of British Columbia during elected term. First year of
+Guest Membership includes waiver of annual membership dues of $1,920 and waiver of initiation fee of
+$750.00. Subsequent years' Guest Membership is waiver of annual membership dues of $1,920.
+
+
+
+Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
+
+
+
+                                                    ___________________________
+                                                    Jeffrey Schnoor, K.C.
+                                                    Conflict of Interest Commissioner
+
+
+
+
+                                             -2-                               MILOBAR 2026
+```
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **1626** | Lobbying Activity Reports (LAR) row matches: **444**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Peter_Milobar ORL Matches]]
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **45** rows (**$10,761.66**) | `SA1Search.aspx`: **47** rows (**$12,859.90**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Peter_Milobar Elections BC Matches]]
+
+## Public Accounts 2025/26
+- **p.10 — Members' Compensation:** Base/MLA Comp: **$119,205** | Capital City Living Allowance: **$26,609** | Travel: **$59,858**
+- **Role Allowance:** Allowance as Chair of Select Standing or Special Committee: $16,948
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Peter_Milobar Public Accounts Breakdown]]
+
+## Elections BC Financial Reports (FRSearch)
+- Matched `FRSearch.aspx` rows: **5**
+- MILOBAR, PETER | 2024 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | KAMLOOPS CENTRE | Redist R2023 VA (BS11)
+- MILOBAR, PETER | 2020 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | KAMLOOPS-NORTH THOMPSON | 2015
+- MILOBAR, PETER | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | KAMLOOPS CENTRE | Redist R2023 VA (BS11)
+- MILOBAR, PETER | 2017 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | KAMLOOPS-NORTH THOMPSON | 2015
+- MILOBAR, PETER | 2026 CONSERVATIVE PARTY LEADERSHIP CONTESTANT REPORT | CONSERVATIVE PARTY | LEADERSHIP CONTESTANT
+- Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]

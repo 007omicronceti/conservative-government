@@ -33,3 +33,11 @@ tags:
 1. [Deputy Ministers' Council of British Columbia — Gov.bc.ca (2026-10-26)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 2. [Ministry of Public Safety and Solicitor General — Gov.bc.ca (2026-04-17)](https://gov.bc.ca/pssg)
 3. [BC Public Service Executive Member Biography (FOI PSA-2017-72484) — OpenInfo BC](http://docs.openinfo.gov.bc.ca/Response_Package_PSA-2017-72484.pdf)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **72** | Lobbying Activity Reports (LAR) row matches: **80**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Tara_Richards ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$323,021** | Travel: **$4,600**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Tara_Richards Public Accounts Breakdown]]

@@ -35,3 +35,17 @@ tags:
 1. [Deputy Ministers' Council of British Columbia — Gov.bc.ca (2026-10-26)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 2. [ReMix: Leading an Innovative BC Public Service Speaker Bio — Sched (2019-02-04)](https://remix2019.sched.com/list/descriptions)
 3. [Office of the Premier in Lobbying Activity Reports: June 2026 — BC ORL](https://lobbyistsregistrar.bc.ca/app/secure/orl/lrs/do/rcntGiCmLgs?cid=72&dt=2026-06)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **614** | Lobbying Activity Reports (LAR) row matches: **358**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Bobbi_Plecas ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$321,351** | Travel: **$9,145**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Bobbi_Plecas Public Accounts Breakdown]]
+
+## Elections BC Financial Reports (FRSearch)
+- Matched `FRSearch.aspx` rows: **2**
+- PLECAS, DARRYL | 2013 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | ABBOTSFORD SOUTH | 2008
+- PLECAS, DARRYL | 2017 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | ABBOTSFORD SOUTH | 2015
+- Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]

@@ -24,3 +24,11 @@ tags:
 ## Verified Sources
 - [Province of B.C. — Deputy Ministers' Council of British Columbia (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 - [BC Construction Association — Deputy Ministers & Industry Infrastructure Forum (DMIIF)](https://bccassn.com/deputy-ministers-industry-infrastructure-forum-dmiif/)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **0** | Lobbying Activity Reports (LAR) row matches: **49**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Jonathan_Dube ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$256,691** | Travel: **—**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Jonathan_Dube Public Accounts Breakdown]]

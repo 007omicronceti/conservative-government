@@ -51,3 +51,102 @@ Because the Premier is also the local MLA for Cariboo-Chilcotin, every provincia
 2. **DRIPA Repeal & Aboriginal Title:** Pledged to repeal the *Declaration on the Rights of Indigenous Peoples Act* (DRIPA)—a move with immediate legal, forestry, and Crown-land consequences across **Tsilhqot'in**, **Secwépemc**, and **Ulkatcho** territories inside his own riding ([[04_Dossiers/Cariboo_Chilcotin/Dossier_DRIPA_Repeal_Cariboo_Title|DRIPA & Cariboo Title Dossier]]).
 3. **Tolko & 100 Mile Timber Supply:** Appointed former Tolko Industries VP and registered lobbyist [[03_Deputy_Ministers/Janis_Simpkins|Janis Simpkins]] as Deputy Minister of Forests while promising to fast-track permitting and stabilize fibre supply after mill closures in 100 Mile House and the Cariboo ([[04_Dossiers/Cariboo_Chilcotin/Dossier_Tolko_Cariboo_Timber|Tolko Dossier]]).
 4. **Yellowhead Copper & Cariboo Gold:** Oversees permitting acceleration affecting the [[04_Dossiers/Cariboo_Chilcotin/Dossier_Yellowhead_Copper_100Mile|Yellowhead Copper]] transmission tie-in to the 100 Mile House BC Hydro substation and labour/compliance disputes at the [[04_Dossiers/Cariboo_Chilcotin/Dossier_Cariboo_Gold_Project|Cariboo Gold Project]] in Wells.
+
+## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Lorne_Doerkson__DOERKSON_2025|DOERKSON_2025]] ([PDF](/static/sources/Primary_Records/PDS/Lorne_Doerkson__DOERKSON_2025.pdf))- [[05_Primary_Sources/PDS/Lorne_Doerkson__DOERKSON_2026|DOERKSON_2026]] ([PDF](/static/sources/Primary_Records/PDS/Lorne_Doerkson__DOERKSON_2026.pdf))
+### 2026 Public Disclosure Statement
+```text
+PUBLIC DISCLOSURE STATEMENT
+            Pursuant to Section 17 of the Members' Conflict of Interest Act
+         with Respect to the Assets, Liabilities, and Financial Interests, etc. of
+                      LORNE DOERKSON, MLA and Spouse
+                         and Controlled Private Corporation
+                               As at February 18, 2026
+
+
+SOURCES OF INCOME
+
+    From the Province of British Columbia
+           (Member) MLA salary and allowances
+           (Spouse) Nil
+
+    From all Other Sources
+           (Member) IG Wealth Management - commission
+           (Spouse) BC Municipal Pension - pension income
+
+
+ASSETS
+
+    Residential Property (Member & Spouse) - Williams Lake, BC
+
+    Bank and Other Deposits (Member & Spouse)
+
+    Loan Receivable (Member) IG Wealth Management - re: sale of business over five years
+
+    Mutual Funds held Inside a Registered Plan
+          (Member) Harbourfront Wealth Management - RRSP
+          IG Putnum US Growth
+          (Member) Harbourfront Wealth Management - LIRA
+          IG Core Portfolio; Putnum US Growth
+          (Spouse) Harbourfront Wealth Management - TFSA
+          IG Core Portfolio
+
+    Other Investments held Inside a Registered Plan
+           (Member) Harbourfront Wealth Management - LIRA - shares
+           Hexo Corp; Namaste
+
+    Securities and Other Interests in Public Corporations
+            (Member) Shares - Hexo Corp; Namaste
+
+    Controlled Private Corporation
+           Shelanda Holdings - Holding company (inactive)
+                   Ownership - Member owns 100% and is President & Officer
+LIABILITIES
+
+       Mortgage (Member & Spouse) on residential property in Williams Lake, BC - Royal Bank
+
+
+CONTROLLED PRIVATE CORPORATION
+
+       Shelanda Holdings
+
+              Sources of Income - Nil
+
+              Assets - Bank and Other Deposits
+
+              Liabilities - Nil
+
+
+
+Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
+
+
+
+                                                    ___________________________
+                                                    Jeffrey Schnoor, K.C.
+                                                    Conflict of Interest Commissioner
+
+
+
+
+                                             -2-                          DOERKSON 2026
+```
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **956** | Lobbying Activity Reports (LAR) row matches: **420**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Lorne_Doerkson ORL Matches]]
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **26** rows (**$3,916.00**) | `SA1Search.aspx`: **33** rows (**$5,660.58**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Lorne_Doerkson Elections BC Matches]]
+
+## Public Accounts 2025/26
+- **p.10 — Members' Compensation:** Base/MLA Comp: **$119,205** | Capital City Living Allowance: **$31,680** | Travel: **$57,890**
+- **Role Allowance:** Allowance as Assistant Deputy Speaker: $41,722
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Lorne_Doerkson Public Accounts Breakdown]]
+
+## Elections BC Financial Reports (FRSearch)
+- Matched `FRSearch.aspx` rows: **3**
+- DOERKSON, LORNE | 2020 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | CARIBOO-CHILCOTIN | 2015
+- DOERKSON, LORNE | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | CARIBOO-CHILCOTIN | Redist R2023 VA (BS11)
+- DOERKSON, LORNE | 2024 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | CARIBOO-CHILCOTIN | Redist R2023 VA (BS11)
+- Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]

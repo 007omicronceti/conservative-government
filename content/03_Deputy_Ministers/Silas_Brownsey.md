@@ -33,3 +33,11 @@ tags:
 2. [Deputy Ministers' Committee on Digital and Data: Terms of Reference — Canada Commons (2025-03-27)](https://canadacommons.ca/artifacts/29660308/deputy-ministers-committee-on-digital-and-data/30560154/)
 3. [Ministry of Municipal Affairs and Housing Transition Binder 2020 — OpenInfo BC](http://docs.openinfo.gov.bc.ca/DA24219_Transition_Binder_Ministry_of_Municipal_Affairs_December_2020.pdf)
 4. [BC Immigrant Investment Fund Mandate Letter 2019–20 — InBC Investment Corp. (2019-02-06)](https://inbcinvestment.com/wp-content/uploads/2024/01/BCIIF-Mandate-Letter-2019-20.pdf)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **44** | Lobbying Activity Reports (LAR) row matches: **149**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Silas_Brownsey ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$290,393** | Travel: **$16,632**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Silas_Brownsey Public Accounts Breakdown]]

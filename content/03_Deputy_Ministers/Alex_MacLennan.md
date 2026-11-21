@@ -26,3 +26,11 @@ As the top non-elected official in Indigenous Relations and Reconciliation (IRR)
 ## Verified Sources
 - [Province of B.C. — Deputy Ministers' Council of British Columbia (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 - [Province of B.C. — Ministry of Indigenous Relations and Reconciliation](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/indigenous-relations-reconciliation)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **0** | Lobbying Activity Reports (LAR) row matches: **76**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Alex_MacLennan ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$225,415** | Travel: **—**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Alex_MacLennan Public Accounts Breakdown]]

@@ -32,3 +32,11 @@ Holding both the Deputy Minister title and **Chief Executive Assessment Officer*
 - [Province of B.C. — Deputy Ministers' Council of British Columbia (Updated Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
 - [Province of B.C. — Ministry of Water, Land and Resource Stewardship Contacts (Archive/Prior Role)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/water-land-and-resource-stewardship/ministry-contacts)
 - [Office of the Registrar of Lobbyists B.C. — Lobbying Activity Reports (May 2026)](https://www.lobbyistsregistrar.bc.ca/app/secure/orl/lrs/do/rcntSmCmLgs?rt=1&dt=2026-05&cid=5&tb=historical&pg=2&wbdisable=false)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **146** | Lobbying Activity Reports (LAR) row matches: **646**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Lori_Halls ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$353,530** | Travel: **$16,597**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Lori_Halls Public Accounts Breakdown]]

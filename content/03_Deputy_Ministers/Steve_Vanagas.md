@@ -23,3 +23,7 @@ GCPE is the central communications and media-relations arm of the B.C. governmen
 - **Additional Archived Sources:**
   - [TransLink's 2023 pay parade shows CEO over the half-million mark — theBreaker (2024-07-02)](https://thebreaker.news/business/translink-pay-parade/) (`03_Sources/External_Appointees/Vanagas_TransLink_SOFI_2023_theBreaker.html`)
   - [TransLink Public Board Meeting Package (2025-10-01)](https://www.translink.ca/-/media/translink/documents/about-translink/governance-and-board/board-of-directors/board-minutes-and-reports/2025/october/public-board-meeting-oct-1.pdf) (`03_Sources/External_Appointees/Vanagas_TransLink_Board_2025-10-01.pdf`)
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **2** rows (**$260.00**) | `SA1Search.aspx`: **3** rows (**$1,773.29**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Steve_Vanagas Elections BC Matches]]

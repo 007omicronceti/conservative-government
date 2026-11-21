@@ -44,3 +44,11 @@ tags:
 - **Additional Archived Sources:**
   - [MacKinnon Report on Alberta's Finances — Government of Alberta](https://www.alberta.ca/mackinnon-report-on-finances) (`03_Sources/External_Appointees/Henderson_Alberta_MacKinnon_Panel.html`)
   - [BC Budget and Fiscal Plan 2016/17–2018/19 (Signed as DM Finance)](https://bcbudget.gov.bc.ca/2016/bfp/2016_budget_and_fiscal_plan.pdf) (`03_Sources/External_Appointees/Henderson_BC_Budget_2016.pdf`)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **5** | Lobbying Activity Reports (LAR) row matches: **6**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Kim_Henderson ORL Matches]]
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **2** rows (**$650.00**) | `SA1Search.aspx`: **2** rows (**$650.00**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Kim_Henderson Elections BC Matches]]

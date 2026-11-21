@@ -131,3 +131,11 @@ with open(out_md, "w", encoding="utf-8") as f:
 print("Extraction complete! Summary written to:", out_md)
 print("\n".join(rows))
 PYEOF
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **61** | Lobbying Activity Reports (LAR) row matches: **190**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Teri_Collins ORL Matches]]
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$312,784** | Travel: **$7,191**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Teri_Collins Public Accounts Breakdown]]

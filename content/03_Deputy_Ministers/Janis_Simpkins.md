@@ -22,3 +22,11 @@ Registered in-house lobbyist for **Tolko Industries Ltd.** (Reg `#10607-3295`), 
 * **Conflict Screen:** Transitions directly from lobbying Forests/BCTS for Tolko to running the ministry. Watch recusal protocols on Tolko tenures and stumpage.
 * **Timber Supply:** Controls AAC determinations and salvage permits affecting [[04_Dossiers/Cariboo_Chilcotin/Dossier_Tolko_Cariboo_Timber|Tolko's Cariboo mills]] (Soda Creek, Lakeview, 100 Mile TSA) alongside [[04_Dossiers/Cariboo_Chilcotin/Dossier_DRIPA_Repeal_Cariboo_Title|DRIPA repeal]].
 * **Cross-Link:** [[04_Dossiers/Lobbying_ORL/External_Appointees_Lobbying_Sweep|External Appointees Lobbying Sweep]]
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **22** | Lobbying Activity Reports (LAR) row matches: **47**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Janis_Simpkins ORL Matches]]
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **1** rows (**$1,000.00**) | `SA1Search.aspx`: **1** rows (**$1,000.00**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Janis_Simpkins Elections BC Matches]]

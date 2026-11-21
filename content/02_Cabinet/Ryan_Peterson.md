@@ -30,3 +30,16 @@ tags:
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [BC majority government with 64 new Conservative MLAs — Island Social Trends (2026-11-19)](https://islandsocialtrends.ca/bc-majority-government-with-64-new-conservative-mlas/)
 3. [Cariboo Memorial Hospital Redevelopment Project — Infrastructure BC](https://www.infrastructurebc.com/project/cariboo-memorial-hospital-redevelopment-project/)
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **76** | Lobbying Activity Reports (LAR) row matches: **26**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Ryan_Peterson ORL Matches]]
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **4** rows (**$1,530.00**) | `SA1Search.aspx`: **9** rows (**$3,630.84**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Ryan_Peterson Elections BC Matches]]
+
+## Elections BC Financial Reports (FRSearch)
+- Matched `FRSearch.aspx` rows: **1**
+- PETERSON, RICK | 2014 CONSERVATIVE LEADERSHIP CONTESTANT REPORT | CONSERVATIVE PARTY | LEADERSHIP CONTESTANT
+- Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]

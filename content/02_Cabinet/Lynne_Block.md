@@ -27,3 +27,74 @@ tags:
 ## Original Source Articles
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
 2. [New B.C. cabinet should be half women to represent province: prof — Times Colonist (2026-11-20)](https://www.timescolonist.com/local-news/new-bc-cabinet-should-be-half-women-to-represent-province-prof-13036678)
+
+## Primary COI & Gift Disclosures (2025–2026)- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK-_3Feb26|BLOCK-_3Feb26]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK-_3Feb26.pdf))- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_-_10MAR26|BLOCK_-_10MAR26]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_-_10MAR26.pdf))- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_2025|BLOCK_2025]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_2025.pdf))- [[05_Primary_Sources/PDS/Lynne_Block__BLOCK_2026|BLOCK_2026]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__BLOCK_2026.pdf))- [[05_Primary_Sources/PDS/Lynne_Block__Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25|Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25]] ([PDF](/static/sources/Primary_Records/PDS/Lynne_Block__Block_L_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf))
+### 2026 Public Disclosure Statement
+```text
+DISCLOSURE STATEMENT
+                  Pursuant to Section 17 of the Members' Conflict of Interest Act
+               with Respect to the Assets, Liabilities, and Financial Interests, etc. of
+                                     LYNNE BLOCK, MLA
+                                     As at February 25, 2026
+
+SOURCES OF INCOME
+
+       From the Province of British Columbia
+              MLA salary and allowances
+
+       From all Other Sources
+              Canada Pension Plan - pension income
+              Old Age Security - pension income
+              BC Teachers' Federation – pension income
+
+ASSETS
+
+       Residential Property - West Vancouver, BC
+
+       Bank and Other Deposits
+
+       Mutual Funds held Inside a Registered Plan
+             Wellington-Altus RRIF, TFSA
+             Hold Mail Account - Holdings within the Plan - All trading discretionary,
+             administered by an Investment Advisor. Prior advice and contents of portfolio
+             not disclosed to the Member.
+
+LIABILITIES
+
+       Property Taxes Owing - Deferred taxes on residential property in West Vancouver, BC
+
+
+GIFTS DISCLOSED PURSUANT TO SECTION 7(3)
+(Gifts or personal benefits received by the Member as an incident of the protocol or social obligations
+accompanying the responsibilities of office but which exceed 250.00 in value)
+
+Complimentary membership to the Union Club of British Columbia during elected term. Membership
+ended after four months. Guest Membership includes waiver of pro-rated annual membership dues of
+$632.00 and waiver of initiation fee of $750.00.
+
+
+Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
+
+
+
+                                                    ___________________________
+                                                    Jeffrey Schnoor, K.C.
+                                                    Conflict of Interest Commissioner
+```
+
+## ORL Lobbying Registry
+- Registry/Gifts row matches: **158** | Lobbying Activity Reports (LAR) row matches: **146**
+- Full sweep: [[04_Dossiers/Lobbying_ORL/Cabinet_DM_ORL_Sweep|Lynne_Block ORL Matches]]
+
+## Elections BC Contributions
+- `SA1ASearch.aspx`: **2** rows (**$1,425.00**) | `SA1Search.aspx`: **2** rows (**$1,425.00**)
+- Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Lynne_Block Elections BC Matches]]
+
+## Public Accounts 2025/26
+- **p.9 — Members' Compensation:** Base/MLA Comp: **$119,205** | Capital City Living Allowance: **$21,672** | Travel: **$24,569**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Lynne_Block Public Accounts Breakdown]]
+
+## Elections BC Financial Reports (FRSearch)
+- Matched `FRSearch.aspx` rows: **1**
+- BLOCK, LYNNE | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | WEST VANCOUVER-CAPILANO | Redist R2023 VA (BS11)
+- Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
