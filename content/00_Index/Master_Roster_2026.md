@@ -1,15 +1,10 @@
----
-title: "Master Roster 2026 — B.C. Conservative Government OSINT Index"
-date: 2026-11-20
----
-
 # Master Roster 2026 — B.C. Conservative Government OSINT Index
 
 - **Total Profiles:** 49
 - **With PDS/COI Filings:** 19 / 49
 - **With ORL Lobbying Matches:** 43 / 49
 - **With Elections BC Contribution Matches:** 29 / 49
-- **With Public Accounts 2025/26 Matches:** 36 / 49
+- **With Public Accounts 2025/26 Matches:** 37 / 49
 - **With PDS -> PA Entity Matches:** 5 / 49
 - **With Elections BC `FRSearch` Matches:** 23 / 49
 
@@ -58,7 +53,7 @@ date: 2026-11-20
 | [[03_Deputy_Ministers/Lori_Halls|Lori Halls]] | Deputy Minister | — | 146 reg / 646 LAR | — | — | $353,530 comp / $16,597 trv | — | — |
 | [[03_Deputy_Ministers/Lorie_Hrycuik|Lorie Hrycuik]] | Deputy Minister | — | 4 reg / 100 LAR | — | — | $253,770 comp / $6,994 trv | — | — |
 | [[03_Deputy_Ministers/Michelle_Koski|Michelle Koski]] | Deputy Minister | — | 39 reg / 126 LAR | — | — | $260,804 comp / $36,453 trv | — | — |
-| [[03_Deputy_Ministers/Nate_Amann-Blake|Nate Amann-Blake]] | Deputy Minister | — | — | — | — | — | — | — |
+| [[03_Deputy_Ministers/Nate_Amann-Blake|Nate Amann-Blake]] | Deputy Minister | — | — | — | — | $279,617 comp / $30,343 trv | — | — |
 | [[03_Deputy_Ministers/Peter_Pokorny|Peter Pokorny]] | Deputy Minister | — | 55 reg / 421 LAR | — | — | $284,523 comp / $27,935 trv | — | — |
 | [[03_Deputy_Ministers/Silas_Brownsey|Silas Brownsey]] | Deputy Minister | — | 44 reg / 149 LAR | — | — | $290,393 comp / $16,632 trv | — | — |
 | [[03_Deputy_Ministers/Steve_Vanagas|Steve Vanagas]] | Deputy Minister | — | — | 2 ($260.00) | 3 ($1,773.29) | — | — | — |

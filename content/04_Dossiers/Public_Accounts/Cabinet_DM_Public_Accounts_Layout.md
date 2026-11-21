@@ -1,12 +1,7 @@
----
-title: "B.C. Public Accounts 2025/26 — Parsed Compensation & Travel Schedules"
-date: 2026-11-20
----
-
 # B.C. Public Accounts 2025/26 — Parsed Compensation & Travel Schedules
 
 - **Source:** `pa-2025-26-crf-detailed-schedules-of-payments.pdf`
-- **Matched Profiles:** 36 / 49
+- **Matched Profiles:** 37 / 49
 
 ### Aaliya_Warbus (Cabinet)
 - **p.11 — Members' Compensation:** Base/MLA Comp: **$119,205** | Capital City Living Allowance: **$29,542** | Travel: **$46,169**
@@ -112,6 +107,9 @@ date: 2026-11-20
 
 ### Michelle_Koski (Deputy Minister)
 - **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$260,804** | Travel: **$36,453**
+
+### Nate_Amann-Blake (Deputy Minister)
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$279,617** | Travel: **$30,343**
 
 ### Peter_Pokorny (Deputy Minister)
 - **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$284,523** | Travel: **$27,935**

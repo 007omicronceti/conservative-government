@@ -37,3 +37,7 @@ tags:
 2. [Ministry of Mining and Critical Minerals Contacts — Gov.bc.ca (2026-11-10)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/mining/ministry-contacts)
 3. [Shell Canada Limited Lobbying Registration — BC ORL (2026-10-28)](https://lobbyistsregistrar.bc.ca/app/secure/orl/lrs/do/vwRg?cno=2696&regId=56568235&wbdisable=true)
 4. [Office of the Premier in Lobbying Activity Reports: June 2026 — BC ORL](https://lobbyistsregistrar.bc.ca/app/secure/orl/lrs/do/rcntGiCmLgs?cid=72&dt=2026-06)
+
+## Public Accounts 2025/26
+- **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$279,617** | Travel: **$30,343**
+- Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Nate_Amann-Blake Public Accounts Breakdown]]

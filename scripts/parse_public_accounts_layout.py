@@ -198,6 +198,11 @@ def parse_dm_block(lines: list[str], idx: int) -> dict:
         "numbers": nums,
     }
 
+NAME_ALIASES = {
+    "AMANN-BLAKE, NATHANIEL": "Nate_Amann-Blake",
+    "AMANN BLAKE, NATHANIEL": "Nate_Amann-Blake",
+}
+
 def main():
     if not os.path.exists(LAYOUT_TXT):
         raise SystemExit(f"Missing {LAYOUT_TXT}")
@@ -213,8 +218,13 @@ def main():
         is_dm_page = "DEPUTY MINISTERS" in head_blob
 
         for idx, ln in enumerate(lines):
+            ln_upper = ln.upper()
+            alias_stems = {
+                stem for alias, stem in NAME_ALIASES.items()
+                if alias in ln_upper
+            }
             for p in profiles:
-                if line_matches_profile(ln, p):
+                if line_matches_profile(ln, p) or (p["stem"] in alias_stems):
                     if is_mla_page:
                         rec = parse_mla_block(lines, idx)
                     elif is_dm_page:
