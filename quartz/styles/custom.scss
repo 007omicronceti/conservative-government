@@ -6,3 +6,28 @@ pre code {
   white-space: pre-wrap;
   word-break: break-word;
 }
+
+a.internal {
+  background-color: transparent !important;
+  color: #7dd3fc !important;
+  text-decoration: underline;
+  text-decoration-color: rgba(125, 211, 252, 0.45);
+  text-underline-offset: 2px;
+  padding: 0 !important;
+  border-radius: 0 !important;
+}
+
+a.internal:hover {
+  color: #bae6fd !important;
+  text-decoration-color: #bae6fd;
+}
+
+:root[saved-theme="light"] a.internal {
+  color: #0369a1 !important;
+  text-decoration-color: rgba(3, 105, 161, 0.4);
+}
+
+:root[saved-theme="light"] a.internal:hover {
+  color: #075985 !important;
+  text-decoration-color: #075985;
+}
