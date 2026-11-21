@@ -8,3 +8,6 @@ tags: [cariboo-chilcotin, mining, yellowhead-copper, 100-mile-house, eao]
 * **Project:** Proposed open-pit copper-gold-silver mine (Trekor Metals / Yellowhead Project) in EAO, federal impact assessment, and Simpcw review.
 * **100 Mile House & CRD:** Planned transmission tie-in runs east-west toward a BC Hydro substation at **100 Mile House** across TNRD and the **Cariboo Regional District (CRD)**, with rail load-out plans near Vavenby.
 * **Links:** [[02_Cabinet/Larry_Neufeld|Larry Neufeld]], [[02_Cabinet/Pete_Davis|Pete Davis]], [[03_Deputy_Ministers/Fazil_Mihlar|Fazil Mihlar]], [[02_Cabinet/Aaliya_Warbus|Á'a:líya Warbus]], [[02_Cabinet/Donegal_Wilson|Donegal Wilson]].
+
+EOF
+echo "Dossier 3 saved"
