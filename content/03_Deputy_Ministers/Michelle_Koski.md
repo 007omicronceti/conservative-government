@@ -1,0 +1,31 @@
+---
+title: "Michelle Koski"
+type: person
+role: "Deputy Minister of Agriculture"
+ministry: "[[01_Ministries/02_Agriculture]]"
+appointment_type: "Retained Incumbent"
+status: verified
+tags:
+  - person
+  - deputy-minister
+  - agriculture
+  - retained-incumbent
+---
+
+# Michelle Koski
+
+## Current Role
+- **Title:** Deputy Minister of Agriculture
+- **Ministry:** [[01_Ministries/02_Agriculture]]
+
+## Career & Background Summary
+- **Retained Incumbent:** Listed as Deputy Minister of Agriculture and Food on the B.C. Government Ministry Contacts directory prior to the November 20, 2026 swearing-in.
+- **Provincial Entry (January 2023):** Joined the B.C. Ministry of Agriculture and Food as an Assistant Deputy Minister in January 2023.
+- **Investment Agriculture Foundation of BC (2018–2023):** Served five years as **CEO of the Investment Agriculture Foundation of BC (IAFBC)**, a major industry-led administrator of federal and provincial agricultural funding programs. IAFBC Chair Jack DeWit praised her program administration and organizational leadership upon her move to Victoria.
+
+## OSINT Watchpoints
+- **Industry-Funding Interface:** Deep institutional familiarity with federal-provincial agricultural grant distribution (IAFBC) paired with incoming Agriculture Minister Ian Paton (longtime Delta farmer and former BC Liberal/BC United critic).
+
+## Original Source Articles
+1. [Ministry of Agriculture and Food Contacts — Gov.bc.ca (2026-11-10)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/agriculture/ministry-contacts)
+2. [Ministry hires deputy ministers — Country Life in BC (2023-01-11)](https://www.countrylifeinbc.com/ministry-hires-deputy-ministers/)

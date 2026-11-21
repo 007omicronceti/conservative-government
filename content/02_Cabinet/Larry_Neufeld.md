@@ -3,10 +3,10 @@ title: "Larry Neufeld"
 type: cabinet_minister
 role: "Minister of Energy, Mines and Petroleum Resources"
 riding: "Peace River South"
-ministry: "[[01_Positions/08_Energy_Mines_and_Petroleum_Resources]]"
+ministry: "[[01_Ministries/08_Energy_Mines_and_Petroleum_Resources]]"
 associated_minister: "Pete Davis (Minister of State for Mining — Kootenay-Rockies)"
 deputy_ministers:
-  - "[[02_People/Nate_Amann-Blake]]"
+  - "[[03_Deputy_Ministers/Nate_Amann-Blake]]"
 oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
 cariboo_impact: "CRITICAL — Yellowhead Copper (100 Mile substation), Cariboo Gold, Gibraltar & BC Hydro"
 status: verified

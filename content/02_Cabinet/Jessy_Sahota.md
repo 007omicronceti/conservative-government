@@ -3,12 +3,12 @@ title: "Jessy Sahota"
 type: cabinet_minister
 role: "Minister of Public Safety and Solicitor General"
 riding: "Surrey-Serpentine River"
-ministry: "[[01_Positions/16_Public_Safety_and_Solicitor_General]]"
+ministry: "[[01_Ministries/16_Public_Safety_and_Solicitor_General]]"
 associated_minister: "Ward Stamer (Minister of State for Emergency Management — Kamloops-North Thompson)"
 parliamentary_secretary: "Bryan Tepper (PS Urban Policing)"
 deputy_ministers:
-  - "[[02_People/Tara_Richards]]"
-  - "[[02_People/Lorie_Hrycuik]]"
+  - "[[03_Deputy_Ministers/Tara_Richards]]"
+  - "[[03_Deputy_Ministers/Lorie_Hrycuik]]"
 oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
 cariboo_impact: "HIGH — Rural RCMP detachment staffing, repeat-offender enforcement & EMBC"
 status: verified
@@ -25,7 +25,7 @@ tags:
 - **Junior Minister:** [[02_Cabinet/Ward_Stamer]] (Minister of State for Emergency Management).
 
 ## Cariboo-Chilcotin Impact
-- Controls provincial RCMP policing contracts and rural detachment staffing (100 Mile House, Williams Lake, Alexis Creek, Anahim Lake) alongside retained DM [[02_People/Tara_Richards]].
+- Controls provincial RCMP policing contracts and rural detachment staffing (100 Mile House, Williams Lake, Alexis Creek, Anahim Lake) alongside retained DM [[03_Deputy_Ministers/Tara_Richards]].
 
 ## Original Source Articles
 1. [B.C. Conservatives form government as new cabinet ministers are sworn in — The Northern View (2026-11-20)](https://thenorthernview.com/2026/11/20/b-c-conservatives-form-government-as-new-cabinet-ministers-are-sworn-in/)

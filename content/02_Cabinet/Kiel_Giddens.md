@@ -3,9 +3,9 @@ title: "Kiel Giddens"
 type: cabinet_minister
 role: "Minister of Forests"
 riding: "Prince George-Mackenzie"
-ministry: "[[01_Positions/11_Forests]]"
+ministry: "[[01_Ministries/11_Forests]]"
 deputy_ministers:
-  - "[[02_People/Janis_Simpkins]]"
+  - "[[03_Deputy_Ministers/Janis_Simpkins]]"
 oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
 cariboo_impact: "CRITICAL — Controls timber supply, BCTS, stumpage & wildfire service"
 status: verified
@@ -27,7 +27,7 @@ tags:
 - Prior private-sector/industry-relations background (listed in historical BC ORL records prior to election as MLA).
 
 ## Cariboo-Chilcotin Impact
-- Paired with Deputy Minister [[02_People/Janis_Simpkins]] (ex-Tolko VP), Giddens directly controls Cariboo timber supply, BC Timber Sales (BCTS), post-mill forestry recovery in 100 Mile House, and the Occupant License to Cut required for the **Yellowhead Copper Project**.
+- Paired with Deputy Minister [[03_Deputy_Ministers/Janis_Simpkins]] (ex-Tolko VP), Giddens directly controls Cariboo timber supply, BC Timber Sales (BCTS), post-mill forestry recovery in 100 Mile House, and the Occupant License to Cut required for the **Yellowhead Copper Project**.
 
 ## Original Source Articles
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)

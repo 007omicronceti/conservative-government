@@ -3,9 +3,9 @@ title: "Áʼa꞉líya Warbus"
 type: cabinet_minister
 role: "Minister of Environment"
 riding: "Chilliwack-Cultus Lake"
-ministry: "[[01_Positions/09_Environment]]"
+ministry: "[[01_Ministries/09_Environment]]"
 deputy_ministers:
-  - "[[02_People/Lori_Halls]]"
+  - "[[03_Deputy_Ministers/Lori_Halls]]"
 oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
 cariboo_impact: "HIGH — Environmental assessments (Yellowhead Copper / Cariboo mines) & BC Parks"
 status: verified
@@ -21,7 +21,7 @@ tags:
 - **Riding:** Chilliwack-Cultus Lake (re-elected MLA; Indigenous filmmaker, artist, and member of the Stó:lō Nation).
 
 ## Cariboo-Chilcotin Impact
-- Oversees provincial environmental assessments (including the **Yellowhead Copper Project** EA process) and BC Parks operations across the Cariboo-Chilcotin with DM [[02_People/Lori_Halls]].
+- Oversees provincial environmental assessments (including the **Yellowhead Copper Project** EA process) and BC Parks operations across the Cariboo-Chilcotin with DM [[03_Deputy_Ministers/Lori_Halls]].
 
 ## Original Source Articles
 1. [B.C. Conservatives form government as new cabinet ministers are sworn in — The Northern View (2026-11-20)](https://thenorthernview.com/2026/11/20/b-c-conservatives-form-government-as-new-cabinet-ministers-are-sworn-in/)

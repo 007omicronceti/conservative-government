@@ -3,9 +3,9 @@ title: "Donegal Wilson"
 type: cabinet_minister
 role: "Minister of Water, Land and Natural Resource Operations"
 riding: "Boundary-Similkameen"
-ministry: "[[01_Positions/19_Water_Land_and_Natural_Resource_Operations]]"
+ministry: "[[01_Ministries/19_Water_Land_and_Natural_Resource_Operations]]"
 deputy_ministers:
-  - "[[02_People/Kevin_Jardine]]"
+  - "[[03_Deputy_Ministers/Kevin_Jardine]]"
 oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
 cariboo_impact: "HIGH — Crown land tenures, water licensing, wildlife & backcountry access"
 status: verified
@@ -27,7 +27,7 @@ tags:
 - Served 12 years (from 2012) as **Executive Director of the B.C. Snowmobile Federation**, sitting on ministerial committees and helping shape the *Off-Road Vehicle Act*.
 
 ## Cariboo-Chilcotin Impact
-- Controls Crown land authorizations, range/grazing interface, water licensing, and backcountry recreation/wildlife policy across the Cariboo-Chilcotin—working with DM [[02_People/Kevin_Jardine]].
+- Controls Crown land authorizations, range/grazing interface, water licensing, and backcountry recreation/wildlife policy across the Cariboo-Chilcotin—working with DM [[03_Deputy_Ministers/Kevin_Jardine]].
 
 ## Original Source Articles
 1. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)

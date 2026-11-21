@@ -3,10 +3,10 @@ title: "Ryan Peterson"
 type: cabinet_minister
 role: "Minister of Health"
 riding: "Coquitlam-Burke Mountain"
-ministry: "[[01_Positions/12_Health]]"
+ministry: "[[01_Ministries/12_Health]]"
 parliamentary_secretary: "Tracy St. Claire (Parliamentary Secretary for Rural Health — Penticton-Summerland)"
 deputy_ministers:
-  - "[[02_People/Peter_Pokorny]]"
+  - "[[03_Deputy_Ministers/Peter_Pokorny]]"
 oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
 cariboo_impact: "CRITICAL — $367M Cariboo Memorial Hospital redevelopment & 100 Mile ER staffing"
 status: verified

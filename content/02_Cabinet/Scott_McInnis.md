@@ -3,9 +3,9 @@ title: "Scott McInnis"
 type: cabinet_minister
 role: "Minister of Indigenous Relations and Reconciliation"
 riding: "Columbia River-Revelstoke"
-ministry: "[[01_Positions/13_Indigenous_Relations_and_Reconciliation]]"
+ministry: "[[01_Ministries/13_Indigenous_Relations_and_Reconciliation]]"
 deputy_ministers:
-  - "[[02_People/Alex_MacLennan]]"
+  - "[[03_Deputy_Ministers/Alex_MacLennan]]"
 oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
 cariboo_impact: "CRITICAL — Tsilhqot'in & Secwépemc agreements, resource revenue-sharing & DRIPA transition"
 status: verified
@@ -22,7 +22,7 @@ tags:
 - **Riding:** Columbia River-Revelstoke (Interior MLA).
 
 ## Cariboo-Chilcotin Impact
-- Directly manages provincial negotiations with Tsilhqot'in and Secwépemc Nations (including resource revenue-sharing and land/governance agreements) alongside retained DM [[02_People/Alex_MacLennan]].
+- Directly manages provincial negotiations with Tsilhqot'in and Secwépemc Nations (including resource revenue-sharing and land/governance agreements) alongside retained DM [[03_Deputy_Ministers/Alex_MacLennan]].
 
 ## Original Source Articles
 1. [B.C. Conservatives form government as new cabinet ministers are sworn in — The Northern View (2026-11-20)](https://thenorthernview.com/2026/11/20/b-c-conservatives-form-government-as-new-cabinet-ministers-are-sworn-in/)

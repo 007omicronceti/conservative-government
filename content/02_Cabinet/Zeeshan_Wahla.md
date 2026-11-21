@@ -3,10 +3,10 @@ title: "Zeeshan Wahla"
 type: cabinet_minister
 role: "Minister of State for Housing"
 riding: "Surrey City Centre"
-ministry: "[[01_Positions/14_Local_Government_Housing_Sport_and_Culture]]"
+ministry: "[[01_Ministries/14_Local_Government_Housing_Sport_and_Culture]]"
 senior_minister: "[[02_Cabinet/Cathie_Ounsted]]"
 deputy_ministers:
-  - "[[02_People/Jonathan_Dube]]"
+  - "[[03_Deputy_Ministers/Jonathan_Dube]]"
 oic_number: "Pending BC Laws posting (sworn in 2026-11-20)"
 cariboo_impact: "LOW-MEDIUM — BC Housing rural allocations & provincial housing targets"
 status: verified
@@ -21,7 +21,7 @@ tags:
 ## Role & Political Profile
 - **Office:** Minister of State for Housing (sworn in November 20, 2026)
 - **Riding:** Surrey City Centre (freshman MLA elected Oct 2026).
-- **Portfolio Home:** Reports within [[01_Positions/14_Local_Government_Housing_Sport_and_Culture]] alongside Minister [[02_Cabinet/Cathie_Ounsted]] and DM [[02_People/Jonathan_Dube]].
+- **Portfolio Home:** Reports within [[01_Ministries/14_Local_Government_Housing_Sport_and_Culture]] alongside Minister [[02_Cabinet/Cathie_Ounsted]] and DM [[03_Deputy_Ministers/Jonathan_Dube]].
 
 ## Cariboo-Chilcotin Impact
 - Oversees BC Housing project approvals and provincial housing supply policy (including potential rollbacks or revisions to NDP municipal zoning mandates affecting Williams Lake and 100 Mile House).
