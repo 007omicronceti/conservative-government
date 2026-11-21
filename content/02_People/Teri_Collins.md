@@ -99,7 +99,6 @@ targets = {
 }
 
 rows = []
-for fname, (last, first) in targets.items():
     # Match LAST, FIRST ... SALARY  TRAVEL on same line (handling optional hyphen/accent/middle initial)
     pattern = re.compile(rf"^\s*{re.escape(last).replace('-', '[-–]')},\s*{re.escape(first)}[^\d\n]*?([\d,]+)\s+([\d,]+)\s*$", re.MULTILINE | re.IGNORECASE)
     m = pattern.search(text)
@@ -110,8 +109,6 @@ for fname, (last, first) in targets.items():
     if m:
         sal, trv = m.group(1), m.group(2)
         val = f'"FY2025-26 BC Public Accounts CRF: Salary ${sal} | Travel ${trv}"'
-        rows.append(f"| [[02_People/{fname[:-3]}]] | ${sal} | ${trv} |")
-        fpath = os.path.join(people_dir, fname)
         if os.path.exists(fpath):
             with open(fpath, "r", encoding="utf-8") as f:
                 content = f.read()
@@ -122,7 +119,6 @@ for fname, (last, first) in targets.items():
             with open(fpath, "w", encoding="utf-8") as f:
                 f.write(content)
     else:
-        rows.append(f"| [[02_People/{fname[:-3]}]] | Check PDF manually (e.g. OIC/Non-DM schedule) | — |")
 
 with open(out_md, "w", encoding="utf-8") as f:
     f.write("---\ntitle: \"FY 2025/26 BC Public Accounts — Deputy Minister Compensation Extract\"\ntype: source\nsource_pdf: \"pa-2025-26-crf-detailed-schedules-of-payments.pdf\"\n---\n\n")
