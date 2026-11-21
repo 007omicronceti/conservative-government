@@ -1,3 +1,7 @@
+---
+date: 2026-11-20
+---
+
 # Elections BC Financial Reports (`FRSearch.aspx`) Sweep
 
 - **Endpoint:** `https://contributions.electionsbc.gov.bc.ca/pcs/frsearch.aspx`

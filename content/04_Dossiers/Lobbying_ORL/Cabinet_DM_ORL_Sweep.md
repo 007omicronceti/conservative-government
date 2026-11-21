@@ -1,3 +1,7 @@
+---
+date: 2026-11-20
+---
+
 # B.C. ORL Lobbying Sweep — Cabinet & Deputy Ministers
 
 Profiles scanned: **49** (`02_Cabinet` + `03_Deputy_Ministers`)

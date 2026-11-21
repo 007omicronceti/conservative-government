@@ -1,3 +1,7 @@
+---
+date: 2026-11-20
+---
+
 # B.C. Conservative Government OSINT Vault
 - [[00_Index/Master_Roster_2026|Master Roster 2026]]
 - [[04_Dossiers/Cariboo_Chilcotin/Dossier_Cariboo_Gold_Project|Cariboo Gold]]

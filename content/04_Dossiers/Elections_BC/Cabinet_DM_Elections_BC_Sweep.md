@@ -1,3 +1,7 @@
+---
+date: 2026-11-20
+---
+
 # Elections BC Provincial Contributions Sweep — Cabinet & Deputy Ministers
 
 Profiles queried: **49** (`02_Cabinet` + `03_Deputy_Ministers`)

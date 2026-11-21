@@ -1,3 +1,7 @@
+---
+date: 2026-11-20
+---
+
 # B.C. Public Accounts 2025/26 Sweep — Cabinet & Deputy Ministers
 
 - **Source:** `pa-2025-26-crf-detailed-schedules-of-payments.pdf` (773 pages extracted)
