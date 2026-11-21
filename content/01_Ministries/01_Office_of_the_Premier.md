@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Office of the Premier"
 type: position
 ministry_number: 1

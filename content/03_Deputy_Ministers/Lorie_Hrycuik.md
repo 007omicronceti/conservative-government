@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Lorie Hrycuik"
 type: person
 role: "Deputy Minister, Emergency Management BC"

@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Trevor Halford"
 type: cabinet_minister
 role: "Minister of Transportation and Infrastructure"

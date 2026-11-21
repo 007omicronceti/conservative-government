@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Ministry of Citizens' Services and Technology"
 type: position
 ministry_number: 5

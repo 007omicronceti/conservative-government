@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Jessy Sahota"
 type: cabinet_minister
 role: "Minister of Public Safety and Solicitor General"

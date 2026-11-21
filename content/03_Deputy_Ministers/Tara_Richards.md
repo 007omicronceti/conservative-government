@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Tara Richards"
 type: person
 role: "Deputy Minister, Public Safety and Solicitor General"

@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Scott McInnis"
 type: cabinet_minister
 role: "Minister of Indigenous Relations and Reconciliation"

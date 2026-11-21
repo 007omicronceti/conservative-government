@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Ministry of Agriculture"
 type: position
 ministry_number: 2

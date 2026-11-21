@@ -1,13 +1,26 @@
 ---
-title: Kevin Jardine
-role: Deputy Minister, WLNRO
+title: "Kevin Jardine"
+type: deputy-minister
+role: "Deputy Minister"
 date: 2026-11-20
-tags: [deputy-minister]
+effective_date: 2026-11-20
+tags:
+  - deputy-minister
+  - environment
+  - natural-resources
 ---
 
-# Kevin Jardine
-* **Role:** Deputy Minister, WLNRO ([[01_Ministries/19_Water_Land_and_Natural_Resource_Operations|WLNRO]])
-* **Minister(s):** [[02_Cabinet/Donegal_Wilson|Donegal Wilson]]
+# Kevin Jardine — Deputy Minister
 
-## Cariboo Relevance
-* Crown land permits for [[04_Dossiers/Cariboo_Chilcotin/Dossier_Cariboo_Gold_Project|Cariboo Gold]] and title.
+**Kevin Jardine** is a senior British Columbia Deputy Minister retained on the Deputy Ministers' Council as of November 20, 2026.
+
+## Background & Track Record
+- **Environment & Regulatory Leadership:** Served as Deputy Minister of Environment and Parks prior to the November 2026 transition, overseeing environmental protection, regulatory compliance, and provincial park management.
+- **Industry Lobbying Touchpoints (BC ORL):** Actively lobbied in 2026 by industrial and resource firms (e.g., Montrose Industries Ltd. in August 2026) regarding environmental protection and permitting matters.
+
+## Cariboo–Chilcotin Corridor Impact
+- **Permitting & Environmental Standards:** Brings direct regulatory experience on industrial environmental protection, reclamation, and land-use oversight affecting forestry and mining operators in the Cariboo–Chilcotin.
+
+## Verified Sources
+- [Province of B.C. — Deputy Ministers' Council of British Columbia (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
+- [Office of the Registrar of Lobbyists B.C. — Lobbying Activity Report 6213-54004 (Sept 15, 2026)](https://www.lobbyistsregistrar.bc.ca/app/secure/orl/lrs/do/cmmLgPblcVw?comlogId=54004&searchPage=clientOrgCorpSummary&sMdKy=1792974355108)

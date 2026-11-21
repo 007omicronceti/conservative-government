@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Silas Brownsey"
 type: person
 role: "Deputy Minister of Citizens' Services and Technology"

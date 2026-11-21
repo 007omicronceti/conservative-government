@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Bruce Banman"
 type: cabinet_minister
 role: "Minister of Citizens' Services and Technology"

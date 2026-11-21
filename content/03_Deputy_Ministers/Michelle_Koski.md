@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Michelle Koski"
 type: person
 role: "Deputy Minister of Agriculture"

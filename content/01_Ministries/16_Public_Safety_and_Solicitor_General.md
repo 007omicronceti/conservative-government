@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Ministry of Public Safety and Solicitor General"
 type: position
 ministry_number: 16

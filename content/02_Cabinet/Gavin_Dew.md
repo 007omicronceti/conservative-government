@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Gavin Dew"
 type: cabinet_minister
 role: "Minister of Economic Development and Tourism"

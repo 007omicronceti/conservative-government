@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Cathie Ounsted"
 type: cabinet_minister
 role: "Minister of Local Government, Housing, Sport and Culture"

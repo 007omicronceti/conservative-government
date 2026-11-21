@@ -1,3 +1,20 @@
+---
+title: "Steve Vanagas"
+type: deputy-minister
+role: "Deputy Minister, Government Communications and Public Engagement (GCPE)"
+ministry: "[[01_Ministries/10_Finance]]"
+date: 2026-11-20
+effective_date: 2026-11-20
+tags: [deputy-minister, finance, gcpe, communications, external-appointee]
+---
+
+# Steve Vanagas — Deputy Minister, Government Communications & Public Engagement (GCPE)
+
+**Steve Vanagas** was appointed **Deputy Minister, Government Communications and Public Engagement (GCPE)** effective November 20, 2026, reporting within the [[01_Ministries/10_Finance]] structure on British Columbia's Deputy Ministers' Council.
+
+## Why He Matters
+GCPE is the central communications and media-relations arm of the B.C. government—controlling press releases, issues management, public advertising, and messaging across all ministries. Vanagas brings corporate and public-transit communications experience from TransLink into the top government communications post.
+
 
 ## Lobbying & Compensation Sweep (Added 2026-11-20)
 - **BC Lobbyists Registry (ORL):** No consultant-lobbyist registration found.

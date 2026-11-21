@@ -1,25 +1,43 @@
 ---
-title: Cariboo Gold Project (Wells) — Permitting, Labour & Compliance
+title: "Deep Dive: Cariboo Gold Project (Wells / Barkerville)"
+type: project-dossier
+region: "District of Wells / Cariboo Regional District"
+proponent: "Osisko Gold Group Inc. / Barkerville Gold Mines Ltd."
+key_entities:
+  - "[[02_Cabinet/Larry_Neufeld]]"
+  - "[[02_Cabinet/Pete_Davis]]"
+  - "[[03_Deputy_Ministers/Nate_Amann-Blake]]"
+  - "[[02_Cabinet/Donegal_Wilson]]"
+  - "[[03_Deputy_Ministers/Kevin_Jardine]]"
+  - "[[02_Cabinet/Aaliya_Warbus]]"
+  - "[[02_Cabinet/Korky_Neufeld]]"
+  - "[[02_Cabinet/Harman_Bhangu]]"
 date: 2026-11-20
-tags: [cariboo-chilcotin, mining, cariboo-gold, wells, barkerville, osisko, labour]
+tags:
+  - cariboo-gold
+  - osisko
+  - mining
+  - labour
+  - wells
 ---
 
-# Cariboo Gold Project (Wells)
+# Deep Dive: Cariboo Gold Project (Wells / Barkerville)
 
-Extracted from local project and regional records in `content/04_Dossiers/Cariboo_Chilcotin/`.
+## Project Status (November 2026)
+- **Construction Progress:** Formal positive construction decision announced September 14, 2026. As of October 27, 2026, the project is ~28% complete ($355M incurred to Sept 30, 2026; ~$907M remaining), with first gold pour targeted for Q1 2029 and commercial production in H2 2029.
+- **Key Infrastructure:** JDS Energy & Mining Inc. awarded continuing underground development (Oct 2026); Willow River bridge expected operational in Q4 2026 to reduce community traffic.
+- **First Nations & Municipal Agreements:** Amended Support and Benefits Agreement signed with the District of Wells (2026); consultation with Xatśūll First Nation continues.
 
-### Source: `Cariboo_Gold_Strike_Mandate_CKPG_2026-11-16.html`
-> experience. By Dave Branco STRIKE Forty camp workers support strike mandate at Cariboo Gold Project Nov 16, 2026 | 4:05 PM Share on Facebook Share on Bluesky Share on X Copy Link WELLS – Camp workers at the Cariboo Gold Project unanimously vote for a strike mandate According to their union, all forty hospitality workers at the Cariboo Gold Project near Wells have voted in favour of a strike mandate. UNITE HERE Local 40 reports that every Summit Hospitality employee who voted supported strike action. These workers handle housekeeping, janitorial, and food services at the gold mine camp. The Cariboo
+## Immediate Provincial Decision Gates & Watchpoints
+- **Transmission Line Licence of Occupation (Q4 2026):** EAO approved *Transmission Line and Camp Amendment #1* on November 11, 2026; Osisko expects its Licence of Occupation for the transmission line in Q4 2026 (requiring sign-off under [[02_Cabinet/Donegal_Wilson]] / [[02_Cabinet/Larry_Neufeld]]).
+- **EAO Compliance & Enforcement:** Warning letters issued April 14, 2026 and October 30, 2026; inspection record posted November 13, 2026 following a Sept 1 inspection into dust, road sweeping, and traffic complaints.
+- **Active Strike Mandate (Nov 16, 2026):** All 40 camp hospitality workers (Summit Hospitality / UNITE HERE Local 40) voted unanimously for a strike mandate over a reported ~$10/hr wage gap compared to other unionized B.C. camps—an immediate test for [[02_Cabinet/Korky_Neufeld]] and [[02_Cabinet/Harman_Bhangu]].
 
-> &nbsp; Forty camp workers support strike mandate at Cariboo Gold Project | CKPG Today You are using an outdated browser. Please upgrade your browser to improve your experience. By Dave Branco STRIKE Forty camp workers support strike mandate at Cariboo Gold Project Nov 16, 2026 | 4:05 PM Share on Facebook Share on Bluesky Share on X Copy Link WELLS – Camp workers at the Cariboo Gold Project unanimously vote for a strike mandate According to their union, all
+## Archived Primary Sources
+- [Forty camp workers support strike mandate at Cariboo Gold Project — CKPG Today (2026-11-16)](https://ckpgtoday.ca/2026/11/16/forty-camp-workers-support-strike-mandate-at-cariboo-gold-project/)
+- [Osisko Gold Provides Construction Progress Update — GlobeNewswire (2026-10-27)](https://www.globenewswire.com/news-release/2026/10/27/3388835/0/en/osisko-gold-provides-construction-progress-update-on-the-cariboo-gold-project.html)
+- [Cariboo Gold Project Regulatory & Inspection Record — BC EAO EPIC](https://www.projects.eao.gov.bc.ca/p/5d40cc5b4cb2c7001b1336b8/project-details)
 
-### Source: `Cariboo_Gold_EAO_EPIC.html` (excerpt)
-> EPIC Loading…
-
-### Source: `Cariboo_Gold_Osisko_Update_2026-10-27.html`
-> Denied Access Denied You don't have permission to access "http&#58;&#47;&#47;www&#46;globenewswire&#46;com&#47;news&#45;release&#47;2026&#47;10&#47;27&#47;3388835&#47;0&#47;en&#47;osisko&#45;gold&#45;provides&#45;construction&#45;progress&#45;update&#45;on&#45;the&#45;cariboo&#45;gold&#45;project&#46;html" on this server. Reference&#32;&#35;18&#46;51951eb8&#46;1795205541&#46;5d3392a4 https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;51951eb8&#46;1795205541&#46;5d3392a4
-
-## Key Links
-- [[01_Ministries/08_Energy_Mines_and_Petroleum_Resources|Energy, Mines & Petroleum Resources]]
-- [[01_Ministries/15_Post-Secondary_Education_and_Labour|Post-Secondary Ed & Labour]]
-- [[01_Ministries/09_Environment|Environment]]
+### Local Archived Receipts (Offline / Quartz Static)
+- [Cariboo Gold Strike Mandate — CKPG (Nov 16, 2026)](/static/sources/Cariboo_Chilcotin/Cariboo_Gold_Strike_Mandate_CKPG_2026-11-16.html)
+- [Cariboo Gold EAO EPIC Record](/static/sources/Cariboo_Chilcotin/Cariboo_Gold_EAO_EPIC.html)

@@ -1,14 +1,23 @@
 ---
-title: Debbie Godfrey
-role: Deputy Minister, Head of the BC Public Service Agency
+title: "Debbie Godfrey"
+type: deputy-minister
+role: "Deputy Minister and Head of the BC Public Service Agency, Ministry of Finance"
+ministry: "[[01_Ministries/10_Finance]]"
 date: 2026-11-20
-tags: [deputy-minister, finance, bcpsa]
+effective_date: 2026-11-20
+tags: [deputy-minister, finance, public-service-agency, hr]
 ---
 
-# Debbie Godfrey
-* **Current Role (Nov 2026):** Deputy Minister, Head of the BC Public Service Agency ([[01_Ministries/10_Finance|Ministry of Finance]])
-* **Minister:** [[02_Cabinet/Peter_Milobar|Peter Milobar]]
-* **Prior Role:** Retained in role from previous administration.
+# Deb (Debbie) Godfrey — Head of the BC Public Service Agency
 
-## Cariboo-Chilcotin OSINT Relevance
-* Oversees provincial public service hiring, staffing freezes, and rural recruitment/retention policies affecting regional ministry offices (Forests, FLNRORD/WLNRO, MCFD) in 100 Mile House and Williams Lake.
+**Deb Godfrey** serves as **Deputy Minister and Head of the BC Public Service Agency** within the [[01_Ministries/10_Finance]], retained on the Deputy Ministers' Council as of November 20, 2026.
+
+## Why She Matters
+She acts as the chief human resources executive for the core provincial public service—overseeing hiring, classification, benefits, workplace policies, and staffing levels across all ministries.
+
+## Cariboo–Chilcotin Corridor Impact
+- **Rural Staffing & Retention:** Directly influences provincial hiring freezes, remote-work rules, and recruitment/retention of frontline ministry staff (forestry, permitting, social services) in rural offices like 100 Mile House and Williams Lake.
+
+## Verified Sources
+- [Province of B.C. — Deputy Ministers' Council (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
+- [Province of B.C. — BC Public Service Agency](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/bc-public-service-agency)

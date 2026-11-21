@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Carson Binda"
 type: cabinet_minister
 role: "Minister of State for Red Tape Reduction"

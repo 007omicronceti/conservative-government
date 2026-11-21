@@ -1,10 +1,24 @@
 ---
-title: Fazil Mihlar
-role: Deputy Minister, Ministry of Energy, Mines and Petroleum Resources
+title: "Fazil Mihlar"
+type: deputy-minister
+role: "Deputy Minister, Ministry of Economic Development and Tourism"
+ministry: "[[01_Ministries/06_Economic_Development_and_Tourism]]"
 date: 2026-11-20
-tags: [deputy-minister, energy-mines, fraser-institute, cariboo-relevance]
+effective_date: 2026-11-20
+tags: [deputy-minister, economic-development, tourism]
 ---
 
-# Fazil Mihlar
-* **Role:** DM, [[01_Ministries/08_Energy_Mines_and_Petroleum_Resources|Energy, Mines and Petroleum Resources]]; former DM of Jobs & Economic Growth (2024–Oct 2026), Vancouver Sun associate editor, Fraser Institute.
-* **Cariboo Watchlist:** Mines Act permitting & grid/energy policy for [[04_Dossiers/Cariboo_Chilcotin/Dossier_Yellowhead_Copper_100Mile|Yellowhead Copper]] and [[04_Dossiers/Cariboo_Chilcotin/Dossier_Cariboo_Gold_Project|Cariboo Gold]]; ORL lobbying exposure.
+# Fazil Mihlar — Deputy Minister, Economic Development and Tourism
+
+**Fazil Mihlar** was appointed **Deputy Minister, Ministry of Economic Development and Tourism** effective November 20, 2026, on British Columbia's Deputy Ministers' Council.
+
+## Background & Track Record
+- **Senior Public Service Veteran:** Long-serving B.C. deputy minister whose prior portfolios include Deputy Minister of Climate Leadership (2016) and senior economic/jobs roles across multiple administrations.
+- **Business & Trade Interface:** Leads provincial economic development strategy, trade diversification, and tourism sector support.
+
+## Cariboo–Chilcotin Corridor Impact
+- **Rural Diversification & Tourism:** Directly oversees provincial grants, destination marketing, and small-business supports affecting 100 Mile House, Williams Lake, and South Cariboo tourism operators.
+
+## Verified Sources
+- [Province of B.C. — Deputy Ministers' Council (Nov 20, 2026)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/cabinet/deputy-ministers)
+- [BC Gov News — Senior public service appointments (2016 Archive)](https://news.gov.bc.ca/releases/2016PREM0026-000436)

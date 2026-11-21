@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Donegal Wilson"
 type: cabinet_minister
 role: "Minister of Water, Land and Natural Resource Operations"

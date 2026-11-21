@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Bobbi Plecas"
 type: person
 role: "Deputy Minister of Education and Child Care"

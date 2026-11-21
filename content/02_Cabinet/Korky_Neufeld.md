@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Korky Neufeld"
 type: cabinet_minister
 role: "Minister of Post-Secondary Education and Labour"

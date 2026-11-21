@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Tom McCarthy"
 type: person
 role: "Deputy Minister, Policy and Coordination"

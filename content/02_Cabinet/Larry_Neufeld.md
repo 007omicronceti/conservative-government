@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Larry Neufeld"
 type: cabinet_minister
 role: "Minister of Energy, Mines and Petroleum Resources"

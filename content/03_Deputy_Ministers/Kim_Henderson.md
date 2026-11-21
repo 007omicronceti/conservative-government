@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Kim Henderson"
 type: person
 role: "Deputy Minister to the Premier, Cabinet Secretary and Head of the Public Service"

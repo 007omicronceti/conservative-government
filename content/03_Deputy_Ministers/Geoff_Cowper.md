@@ -1,16 +1,50 @@
 ---
-title: Geoff Cowper, K.C.
-role: Deputy Attorney General, Ministry of Attorney General
 date: 2026-11-20
-tags: [deputy-minister, attorney-general, fasken, justice-reform, cariboo-relevance]
+title: "Geoff Cowper, KC"
+type: person
+role: "Deputy Minister of Attorney General"
+ministry: "[[01_Ministries/03_Attorney_General]]"
+appointment_type: "External Appointment (Private Bar)"
+status: verified
+tags:
+  - person
+  - deputy-minister
+  - fasken
+  - legal
+  - external-appointee
 ---
 
-# Geoff Cowper, K.C.
-* **Current Role (Nov 2026):** Deputy Attorney General, [[01_Ministries/03_Attorney_General|Ministry of Attorney General]]
-* **Minister:** [[02_Cabinet/Caroline_Elliott|Caroline Elliott]]
-* **Prior Role:** Senior Partner (Litigation & Dispute Resolution), **Fasken** (Vancouver); B.C. Bar (1982), UBC LLB (1980).
-* **Transition:** Authored Fasken's *"B.C.'s New Government"* bulletin (Oct 27, 2026) before becoming Deputy AG.
+# Geoff Cowper, KC (Geoffrey Cowper)
 
-## Record & Cariboo Watchlist
-* **Cowper Report (2012):** Chaired BC Justice Reform Initiative (2012–2015); former Legal Aid Society Chair; AFN class-action team.
-* **Cariboo / DRIPA:** Crown constitutional defence on [[04_Dossiers/Cariboo_Chilcotin/Dossier_DRIPA_Repeal_Cariboo_Title|DRIPA repeal & Cariboo title]], rural circuit courts, and Fasken recusal screens.
+## Current Role
+- **Title:** Deputy Minister of Attorney General
+- **Ministry:** [[01_Ministries/03_Attorney_General]]
+
+## Career & Background Summary
+- **Private Legal Practice:** Senior Partner in Litigation and Dispute Resolution at **Fasken** (Vancouver). Called to the British Columbia Bar in 1982 and the Yukon Bar in 1987.
+- **Practice Specialties:** Commercial litigation, class actions, appellate practice, administrative and public law, **Political Law** (election finance, lobbyist registration, public sector conflict of interest), and Government Relations/Crisis Communication.
+- **Major Crown & Utility Representations:**
+  - Represented **BC Hydro and Power Authority** on Site C project approval litigation (2022).
+  - Represented **FortisBC Energy Inc.** in pipeline abandonment disputes with the City of Coquitlam (2021) and BC Utilities Commission (BCUC) inquiries into municipal energy utilities (2021–present).
+- **Provincial Commissions & Justice Reform:**
+  - **Chair, BC Justice Reform Initiative (2012–2015):** Authored the landmark Cowper Report on criminal justice delays and charge assessment reform (delivered a 4-year update report on October 19, 2016).
+  - **Commission Counsel:** Davies Commission on First Nations and Policing (2010); Matkin Commission on Securities Regulation (1994); Hall Commission on First Nations Policy (1987).
+- **Boards & Non-Profits:** Director & Chair of the **Legal Services Society** (B.C. legal aid, 1998–2008); Director, **Street to Home Foundation** (2008–present); Chair, Fellow and Provincial Chair, American College of Trial Lawyers (2005–2007).
+- **Education:** LLB, University of British Columbia (1980).
+
+## OSINT Watchpoints
+- **External Private-Sector Appointment:** Unlike most retained career deputies on this roster, Cowper is a direct appointment from a major corporate law firm (Fasken).
+- **Potential Conflict Screens:** Extensive prior representation of BC Hydro, FortisBC, and corporate class-action/securities clients will require formal recusal walls on files touching those entities.
+- **Justice Reform Mandate:** Appointment signals an aggressive push on court backlogs, bail/charge assessment standards, and prosecutorial policy echoing his 2012–2016 Justice Reform reports.
+
+## Original Source Articles
+1. [Geoffrey Cowper, KC Partner Profile — Fasken](https://www.fasken.com/en/geoffrey-cowper)
+2. [Geoffrey "Geoff" Cowper, K.C. Profile — Best Lawyers](https://www.bestlawyers.com/lawyers/geoffrey-geoff-cowper-k-c/57244)
+3. [Justice Reform Initiative — govTogetherBC](https://engage.gov.bc.ca/govtogetherbc/engagement/justice-reform-results/)
+
+## Lobbying & Extended Background Sweep (Added 2026-11-20)
+- **BC Lobbyists Registry (ORL):** No direct lobbyist registration; practiced Political Law & Lobbying Compliance at Fasken.
+- **Pre-Appointment Transition Bulletin (Oct 27, 2026):** 24 days prior to swearing-in, co-authored ***"The Transition Trap: What You Need to Know About Joining, Leaving, or Lobbying B.C.'s New Government"*** alongside Fasken Political Law Chair Guy W. Giorno (former Chief of Staff to PM Stephen Harper).
+- **Additional Client Conflicts Noted:** Represented **TELUS Communications Inc.** (2019) and the **Assembly of First Nations (AFN)** ($20B settlement class action, 2019–present), in addition to **BC Hydro** and **FortisBC Energy Inc.**
+- **Additional Archived Sources:**
+  - [The Transition Trap: What You Need to Know About Joining, Leaving, or Lobbying B.C.'s New Government — Fasken (2026-10-27)](https://www.fasken.com/en/knowledge/2026/10/the-transition-trap) (`03_Sources/External_Appointees/Cowper_Fasken_Transition_Trap_2026-10-27.html`)

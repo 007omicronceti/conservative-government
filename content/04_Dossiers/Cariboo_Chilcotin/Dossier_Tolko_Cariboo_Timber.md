@@ -1,33 +1,39 @@
 ---
-title: Tolko Industries & Cariboo Timber Supply (100 Mile & Williams Lake)
+title: "Deep Dive: Tolko Industries Ltd. & Cariboo Timber Supply"
+type: project-dossier
+region: "100 Mile House TSA / Williams Lake TSA / Quesnel TSA"
+key_entities:
+  - "[[03_Deputy_Ministers/Janis_Simpkins]]"
+  - "[[02_Cabinet/Kiel_Giddens]]"
+  - "[[02_Cabinet/Lorne_Doerkson]]"
 date: 2026-11-20
-tags: [cariboo-chilcotin, forestry, tolko, 100-mile-house, williams-lake, quesnel, aptr041]
+tags:
+  - tolko
+  - forestry
+  - cariboo-chilcotin
+  - conflict-of-interest
 ---
 
-# Tolko Industries & Cariboo Timber Supply
+# Deep Dive: Tolko Industries Ltd. & Cariboo Timber Supply
 
-* **Regional Footprint (`Tolko_Cariboo_Woodlands.html`):** Tolko's Cariboo Woodlands team manages tenures and fibre supply across **2,054,626 hectares** in the central Interior spanning the **100 Mile House TSA**, **Williams Lake TSA**, and **Quesnel TSA**, governed by Forest Stewardship Plans and provincial timber supply/apportionment rules.
-* **Tenure Transfer & Fibre Supply Model (`Tolko_Westbank_FN_Tenure_Transfer_2026-10-15.html`):** Announced October 14, 2026 (published October 15, 2026), **Ntityix Resources Limited Partnership** (wholly owned by Westbank First Nation via Ntityix Development LP; CEO Mic Werstuik) and **Tolko Industries Ltd.** completed agreements transferring **Forest Licence A98912** (**52,100 m³** allowable annual cut) to Ntityix alongside a **15-year Fibre Supply Agreement** (with automatic renewal conditions) to keep fibre flowing to Tolko's manufacturing operations.
-* **Apportionment & Ministry Watchpoint (`BC_Forests_Apportionment_2026-27_aptr041.pdf`):** Tracks 2026–27 AAC apportionments across TSAs, TFLs, and pulpwood agreements in the **Cariboo Natural Resource Region (`RCB`)** under Section 53 corporate linkage definitions—intersecting directly with 100 Mile House mill/transition pressures, BCTS/salvage supply, and Forests Deputy Minister [[03_Deputy_Ministers/Janis_Simpkins|Janis Simpkins]]'s prior Tolko executive and lobbyist (`#10607-3295`) role.
+## Operational Footprint in the Cariboo-Chilcotin
+- **Cariboo Woodlands Division:** Manages **2,054,626 hectares** of forest tenure and fibre supply across the **100 Mile House TSA**, **Williams Lake TSA**, and **Quesnel TSA** (office: 180 Hodgson Rd, Williams Lake; Forest Stewardship Plan **FSP #780**).
+- **Active Public Review (Open Now):** Tolko Cariboo Woodlands Forest Operations Map (FOM) for Quesnel Natural Resource District (James Mountain) is open for public comment **November 11 – December 11, 2026** (valid through Nov 11, 2029).
+- **Indigenous Tenure Transfer Template:** On October 14, 2026, Tolko and Westbank First Nation (Ntityix Resources LP) completed a tenure transfer of Forest Licence A98912 paired with a long-term fibre supply agreement.
 
----
+## Governance & Conflict-of-Interest Watchpoints
+- **Direct Revolving Door:** Incoming Forests Deputy Minister [[03_Deputy_Ministers/Janis_Simpkins]] was Tolko's VP of Indigenous & Government Relations and Sustainability and a registered in-house lobbyist (BC ORL `#10607-3295`) lobbying the Ministry of Forests and BCTS through July 2025.
+- **Key Questions to Track:**
+  1. What formal recusal / conflict-of-interest wall is established for Simpkins on Tolko cutting permits, BCTS auctions, stumpage reviews, and Cariboo TSA apportionment?
+  2. How will [[02_Cabinet/Kiel_Giddens]] and Simpkins handle fibre reallocation following the November 2025 100 Mile House sawmill closure?
 
-## 1. Cariboo Woodlands & Timber Supply Area Dynamics
-* **2.05M Hectare Central Interior Footprint:** Tolko's Cariboo Woodlands operations cover **2,054,626 hectares** across the **100 Mile House TSA**, **Williams Lake TSA**, and **Quesnel TSA**, making fibre availability, wildfire salvage, and AAC/apportionment decisions central to mill viability and local employment across the South, Central, and North Cariboo.
-* **Apportionment & Corporate Linkages (`aptr041`):** The 2026–27 provincial apportionment report tracks AAC allocations across TSAs, Tree Farm Licences, and pulpwood agreements, linking licences to corporate groups under Section 53 of the *Forest Act* and distinguishing independent medium (25,000 to <100,000 m³), independent small (<25,000 m³), and jointly held licences.
+## Archived Primary Sources
+- [BC Cariboo Woodlands Forest Management — Tolko Industries](https://tolko.com/responsibility/managing-our-forest/british-columbia/cariboo-woodlands/)
+- [BC Ministry of Forests 2026-27 Apportionment Report (`aptr041_20260813.pdf`)](https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/timber-tenures/apportionment/2026-27/aptr041_20260813.pdf)
+- [Tolko FOM Notice (Nov 11–Dec 11, 2026) — Quesnel Cariboo Observer](https://quesnelobserver.com/2026/11/09/tolko-industries-ltd-forest-operations-map-fom-6/)
+- [Westbank First Nation & Tolko Tenure Transfer Agreement (2026-10-15)](https://ntityixresources.com/westbank-first-nation-and-tolko-industries-ltd-announce-landmark-forestry-partnership-and-tenure-transfer-agreement/)
 
----
-
-## 2. Indigenous Tenure Transfers & Long-Term Fibre Agreements
-* **Forest Licence A98912 Transfer (Oct 2026):** Under the Westbank First Nation / Ntityix agreement with Tolko, **Forest Licence A98912** (**52,100 m³** AAC) transfers stewardship, operational planning, forest management, and licence administration to Ntityix Resources LP while establishing a **15-year Fibre Supply Agreement** (with automatic renewal provisions) back to Tolko—illustrating how major B.C. processors pair tenure divestment/reconciliation deals with multi-year mill fibre supply contracts.
-* **Cariboo Coalition & Conflict-of-Interest Watch:** Because Forests DM [[03_Deputy_Ministers/Janis_Simpkins|Janis Simpkins]] transitioned from Tolko (VP and registered lobbyist `#10607-3295` through July 2025, with filings touching Cariboo forestry/rehabilitation entities) into running the Ministry of Forests under Minister [[02_Cabinet/Kiel_Giddens|Kiel Giddens]], tenure transfers, BCTS sales, salvage permits, and fibre agreements in the Cariboo require close public-record verification.
-
----
-
-## 3. Local Source Files & Ministry Links
-* `content/04_Dossiers/Cariboo_Chilcotin/Tolko_Cariboo_Woodlands.html`
-* `content/04_Dossiers/Cariboo_Chilcotin/Tolko_Westbank_FN_Tenure_Transfer_2026-10-15.html`
-* `content/04_Dossiers/Cariboo_Chilcotin/BC_Forests_Apportionment_2026-27_aptr041.pdf`
-* `content/04_Dossiers/Lobbying_ORL/External_Appointees_Lobbying_Sweep.md`
-* [[01_Ministries/11_Forests|Ministry of Forests]] — [[02_Cabinet/Kiel_Giddens|Kiel Giddens]], [[03_Deputy_Ministers/Janis_Simpkins|Janis Simpkins]]
-* [[02_Cabinet/Lorne_Doerkson|Lorne Doerkson]] (Premier & Cariboo-Chilcotin MLA)
+### Local Archived Receipts (Offline / Quartz Static)
+- [BC Forests Apportionment 2026–27](/static/sources/Cariboo_Chilcotin/BC_Forests_Apportionment_2026-27_aptr041.pdf)
+- [Tolko Cariboo Woodlands Overview](/static/sources/Cariboo_Chilcotin/Tolko_Cariboo_Woodlands.html)
+- [Tolko & Westbank FN Tenure Transfer (Oct 15, 2026)](/static/sources/Cariboo_Chilcotin/Tolko_Westbank_FN_Tenure_Transfer_2026-10-15.html)

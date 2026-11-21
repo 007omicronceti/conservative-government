@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "Anna Kindy"
 type: cabinet_minister
 role: "Minister of State for Rural Development"

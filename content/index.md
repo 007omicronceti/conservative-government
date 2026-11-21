@@ -27,8 +27,8 @@ Formed on **November 20, 2026** following the October 24 snap election (63-seat 
 | [[01_Ministries/06_Economic_Development_and_Tourism|Economic Development & Tourism]] | [[02_Cabinet/Gavin_Dew|Gavin Dew]], [[02_Cabinet/Anna_Kindy|Anna Kindy]], [[02_Cabinet/Carson_Binda|Carson Binda]] | [[03_Deputy_Ministers/Jonathan_Dube|Jonathan Dubé]] |
 | [[01_Ministries/02_Agriculture|Agriculture]] | [[02_Cabinet/Ian_Paton|Ian Paton]] | [[03_Deputy_Ministers/Michelle_Koski|Michelle Koski]] |
 | [[01_Ministries/05_Citizens_Services_and_Technology|Citizens' Services & Technology]] | [[02_Cabinet/Bruce_Banman|Bruce Banman]] | [[03_Deputy_Ministers/Silas_Brownsey|Silas Brownsey]] |
-| [[01_Ministries/04_Children_and_Family_Development|Children & Family Development]] | [[02_Cabinet/Lynne_Block|Lynne Block]] | [[03_Deputy_Ministers/Kaye_Krishna|Kaye Krishna]] |
-| [[01_Ministries/07_Education_and_Child_Care|Education & Child Care]] | [[02_Cabinet/Kristina_Loewen|Kristina Loewen]] | [[03_Deputy_Ministers/Bobbi_Plecas|Bobbi Plecas]] |
+| [[01_Ministries/04_Children_and_Family_Development|Children & Family Development]] | [[02_Cabinet/Kristina_Loewen|Kristina Loewen]] | [[03_Deputy_Ministers/Kaye_Krishna|Kaye Krishna]] |
+| [[01_Ministries/07_Education_and_Child_Care|Education & Child Care]] | [[02_Cabinet/Lynne_Block|Lynne Block]] | [[03_Deputy_Ministers/Bobbi_Plecas|Bobbi Plecas]] |
 | [[01_Ministries/14_Local_Government_Housing_Sport_and_Culture|Local Gov, Housing, Sport & Culture]] | [[02_Cabinet/Cathie_Ounsted|Cathie Ounsted]], [[02_Cabinet/Zeeshan_Wahla|Zeeshan Wahla]] | [[03_Deputy_Ministers/Teri_Collins|Teri Collins]] |
 | [[01_Ministries/15_Post-Secondary_Education_and_Labour|Post-Secondary Ed & Labour]] | [[02_Cabinet/Korky_Neufeld|Korky Neufeld]], [[02_Cabinet/Harman_Bhangu|Harman Bhangu]] | [[03_Deputy_Ministers/Trevor_Hughes|Trevor Hughes]] |
 

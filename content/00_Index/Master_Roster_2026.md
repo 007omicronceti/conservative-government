@@ -1,4 +1,5 @@
 ---
+date: 2026-11-20
 title: "B.C. Conservative Government — Deputy Ministers Master Roster (2026)"
 type: index
 government: "Conservative Party of British Columbia"
