@@ -1,0 +1,50 @@
+---
+title: "Bruce Banman — Banman, B Union Club - Gift Declaration Notice  14Jul25.pdf"
+date: 2026-11-20
+tags: [coi, pds, bruce_banman]
+---
+
+# Bruce Banman — Banman, B Union Club - Gift Declaration Notice  14Jul25.pdf
+- [[02_Cabinet/Bruce_Banman]] | [PDF](/static/sources/Primary_Records/PDS/Bruce_Banman__Banman_B_Union_Club_-_Gift_Declaration_Notice_14Jul25.pdf)
+
+```text
+GIFT DECLARATION
+                                      Bruce Banman, MLA
+
+
+
+
+Recipient:            Bruce Banman, MLA for Abbotsford South
+
+Donor:                Union Club of British Columbia
+
+Value:                $2670 for first year, $1920 for subsequent years
+
+Date Received:        October 2024
+
+Description:          Complimentary membership offered to Members of the Legislative
+                      Assembly during their elected term. First year of Guest Membership
+                      includes waiver of annual membership dues of $1,920 and waiver of
+                      initiation fee of $750.00. Subsequent years' Guest Membership is waiver of
+                      annual membership dues of $1,920.
+
+
+
+
+This gift was appropriately received as an incident of the social obligations that normally
+accompany the responsibilities of Office. This filing complies with the requirements of the
+Members' Conflict of Interest Act, section 7(2).
+
+
+
+Date filed with Commissioner: July 9, 2025
+
+Filed with the Clerk of the Legislative Assembly this 14th day of July 2025.
+
+
+
+
+                                                    _____________________________
+                                                    The Honourable Victoria Gray, K.C.
+                                                    Acting Conflict of Interest Commissioner
+```
