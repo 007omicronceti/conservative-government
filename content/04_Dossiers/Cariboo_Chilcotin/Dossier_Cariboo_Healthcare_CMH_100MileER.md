@@ -33,3 +33,7 @@ tags: [healthcare, cariboo-memorial-hospital, 100-mile-house, interior-health]
 - [CMH ER Staffing — Williams Lake Tribune (Apr 10, 2026)](/static/sources/Cariboo_Chilcotin/CMH_ER_Staffing_WLTribune_2026-04-10.html)
 - [EngageIH — CMH Redevelopment](/static/sources/Cariboo_Chilcotin/CMH_EngageIH_Redevelopment.html)
 - [Infrastructure BC — Cariboo Memorial Hospital](/static/sources/Cariboo_Chilcotin/InfrastructureBC_Cariboo_Memorial_Hospital.html)
+
+
+## Related Field Audits
+- [[04_Dossiers/Cariboo_Chilcotin/Hospital_ER_Crisis_Dossier|100 Mile District General Hospital ER Closures Dossier]]

@@ -43,3 +43,7 @@ tags:
 - [Yellowhead IPD (June 23, 2025)](/static/sources/Cariboo_Chilcotin/Yellowhead_IPD_2025-06-23.pdf)
 - [Yellowhead Transmission Line 100 Mile](/static/sources/Cariboo_Chilcotin/Yellowhead_Transmission_Line_100Mile.html)
 - [100 Mile House Council Agenda (Oct 13, 2026)](/static/sources/Cariboo_Chilcotin/100_Mile_House_Council_Agenda_2026-10-13.pdf)
+
+
+## Related Field Audits
+- [[04_Dossiers/Cariboo_Chilcotin/Taseko_Yellowhead_Hendrix_Alternative_Audit|Taseko Yellowhead 230-kV Alternate Routing Audit]]
