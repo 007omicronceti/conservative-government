@@ -5,6 +5,9 @@ OUT = Path("content/04_cariboo_chilcotin/doerkson-live-monitor.md")
 FEEDS = [
     ("Office of the Premier", "https://news.gov.bc.ca/office-of-the-premier/feed"),
     ("Press (Lorne Doerkson)", "https://news.google.com/rss/search?q=Lorne+Doerkson&hl=en-CA&gl=CA&ceid=CA:en"),
+ ("Alberta","https://news.google.com/rss/search?q=%22Lorne+Doerkson%22+Alberta&hl=en-CA&gl=CA&ceid=CA:en"),
+ ("US","https://news.google.com/rss/search?q=%22Lorne+Doerkson%22&hl=en-US&gl=US&ceid=US:en"),
+ ("World","https://news.google.com/rss/search?q=%22Lorne+Doerkson%22+world+OR+LNG&hl=en-GB&gl=GB&ceid=GB:en"),
 ]
 def pull(url):
     try:
