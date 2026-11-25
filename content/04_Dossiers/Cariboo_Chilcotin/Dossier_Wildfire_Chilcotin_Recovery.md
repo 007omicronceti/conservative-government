@@ -40,3 +40,11 @@ tags:
 - [BCWS Mirage Lake Fuel Break (Nov 3, 2026)](/static/sources/Cariboo_Chilcotin/BCWS_Mirage_Lake_Fuel_Break_2026-11-03.html)
 - [BCWS Watch Lake Fuel Break (Nov 3, 2026)](/static/sources/Cariboo_Chilcotin/BCWS_Watch_Lake_Fuel_Break_2026-11-03.html)
 - [TNG Chilcotin Salmon Task Force (Aug 18, 2026)](/static/sources/Cariboo_Chilcotin/TNG_Chilcotin_Salmon_Task_Force_2026-08-18.pdf)
+
+<!-- CARIBOO_CROSSWIRE_START -->
+## Primary Source Cross-Wiring (Nov 20–24, 2026 OICs & Mandate Letters)
+
+- **Nov 24 Mandate Letters:** [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+- **OIC Governance:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] designates neighboring Kamloops–North Thompson MLA [[02_Cabinet/Ward_Stamer]] as Minister of State for Emergency Management alongside PSSG Minister [[02_Cabinet/Jessy_Sahota]].
+- **Dedicated Cabinet Working Group:** [[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]] creates the **Working Group on Wildfire Response**; [[03_Deputy_Ministers/Lorie_Hrycuik]] is confirmed as DM, Emergency Management BC ([[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]]).
+<!-- CARIBOO_CROSSWIRE_END -->

@@ -29,3 +29,11 @@ She acts as the chief human resources executive for the core provincial public s
 ## Public Accounts 2025/26
 - **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$300,156** | Travel: **$1,879**
 - Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Debbie_Godfrey Public Accounts Breakdown]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** Appointed under *Public Service Act* s. 12 via [[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]] (Approved and Ordered November 20, 2026).
+- **Official Directory Mirror:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] (`SHA-256: 33fe8362...`)
+- **Transition Index:** [[04_Dossiers/OIC/November_2026_Transition_OICs|November 19–24, 2026 Transition OICs]]
+<!-- OIC_PROVENANCE_END -->

@@ -36,3 +36,11 @@ tags: [highway-97, cariboo-connector, cariboo-road-recovery, quesnel-interconnec
 - [$37.5M Contract Release: Highway 97 & Bastin Hill — BC Gov News (2026-01-07)](https://news.gov.bc.ca/releases/2026TT0009-000013)
 - [Quesnel North–South Interconnector Business Case — City of Quesnel](https://www.quesnel.ca/interconnector)
 - [Highway 97 Safety & Infrastructure Resolution — Prince George / CRD (2026-04-29 PDF)](https://pub-princegeorge.escribemeetings.com/filestream.ashx?DocumentId=37188)
+
+<!-- CARIBOO_CROSSWIRE_START -->
+## Primary Source Cross-Wiring (Nov 20–24, 2026 OICs & Mandate Letters)
+
+- **Nov 24 Mandate Letters:** [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+- **OIC Governance:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] appoints [[02_Cabinet/Trevor_Halford]] (Transportation & Infrastructure) and **Misty Van Popta** (PS for Infrastructure). Both sit on **Treasury Board** ([[05_Primary_Sources/OIC/OIC_0424_2026|OIC 424/2026]]) alongside Finance Chair [[02_Cabinet/Peter_Milobar]] and Forests Vice Chair [[02_Cabinet/Kiel_Giddens]].
+- **Deputy Ministers:** [[03_Deputy_Ministers/Keith_Godin]] (DM) and Associate DMs Paula McKay & Kevin Volk appointed via [[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]].
+<!-- CARIBOO_CROSSWIRE_END -->

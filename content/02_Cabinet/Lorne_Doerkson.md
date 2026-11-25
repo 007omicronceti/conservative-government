@@ -153,3 +153,13 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 - DOERKSON, LORNE | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | CARIBOO-CHILCOTIN | Redist R2023 VA (BS11)
 - DOERKSON, LORNE | 2024 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | CARIBOO-CHILCOTIN | Redist R2023 VA (BS11)
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] (Premier)
+- **Acting Minister Chain (Absence / COI):** 1st Acting: [[02_Cabinet/Claire_Rattee|Claire Rattee]]; 2nd Acting: [[02_Cabinet/Peter_Milobar|Peter Milobar]] ([[05_Primary_Sources/OIC/OIC_0422_2026|OIC 422/2026]])
+- **Cabinet Committees:** President of the Executive Council; Chair, Priorities and Planning Committee ([[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]])
+- **Senior Staff / Deputy:** Chief of Staff: Dimitrios Pantazopoulos (DM status) & Deputy CoS: Alejandra Dolores Francis ([[05_Primary_Sources/OIC/OIC_0430_2026|OIC 430/2026]]); Principal Secretary: Angela Isidorou; Exec. Dir. Issues & Comms: Shane Mills ([[05_Primary_Sources/OIC/OIC_0433_2026|OIC 433/2026]])
+- **Official Directory & Releases:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] | [[05_Primary_Sources/News_Releases/2026PREM0069-001142|Nov 20 Cabinet Release]] | [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+<!-- OIC_PROVENANCE_END -->

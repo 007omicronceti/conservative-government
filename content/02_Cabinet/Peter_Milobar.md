@@ -142,3 +142,13 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 
 ## 2026 Mandate Letter
 - [[05_Primary_Sources/Mandate_Letters/Peter_Milobar_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] (Minister of Finance)
+- **Acting Minister Chain (Absence / COI):** 2nd Acting Minister for Premier [[02_Cabinet/Lorne_Doerkson]] & AG; 1st Acting for Health; Portfolio backup: 1st Ryan Peterson, 2nd Gavin Dew ([[05_Primary_Sources/OIC/OIC_0422_2026|OIC 422/2026]])
+- **Cabinet Committees:** Chair, Treasury Board ([[05_Primary_Sources/OIC/OIC_0424_2026|OIC 424/2026]])
+- **Senior Staff / Deputy:** Deputy Minister & Secretary to Treasury Board: [[03_Deputy_Ministers/Heather_Wood]] ([[05_Primary_Sources/OIC/OIC_0429_2026|OIC 429/2026]])
+- **Official Directory & Releases:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] | [[05_Primary_Sources/News_Releases/2026PREM0069-001142|Nov 20 Cabinet Release]] | [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+<!-- OIC_PROVENANCE_END -->

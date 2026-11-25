@@ -213,3 +213,13 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 
 ## 2026 Mandate Letter
 - [[05_Primary_Sources/Mandate_Letters/Larry_Neufeld_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] (Minister of Energy, Mines and Petroleum Resources)
+- **Acting Minister Chain (Absence / COI):** 1st Acting for Econ Dev; Portfolio backup: 1st Kiel Giddens, 2nd Trevor Halford ([[05_Primary_Sources/OIC/OIC_0422_2026|OIC 422/2026]])
+- **Cabinet Committees:** Member, **Environment and Land Use Committee** ([[05_Primary_Sources/OIC/OIC_0423_2026|OIC 423/2026]]); Working Group on Major Projects and Investment ([[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]])
+- **Senior Staff / Deputy:** Chief of Staff: David William Johnston; MA supporting MoS Mining: Naunnihaal Singh Khera ([[05_Primary_Sources/OIC/OIC_0431_2026|OIC 431/2026]])
+- **Official Directory & Releases:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] | [[05_Primary_Sources/News_Releases/2026PREM0069-001142|Nov 20 Cabinet Release]] | [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+<!-- OIC_PROVENANCE_END -->

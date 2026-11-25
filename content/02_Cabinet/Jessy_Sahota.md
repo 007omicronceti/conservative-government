@@ -43,3 +43,13 @@ tags:
 
 ## 2026 Mandate Letter
 - [[05_Primary_Sources/Mandate_Letters/Jessy_Sahota_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] (Minister of Public Safety and Solicitor General)
+- **Acting Minister Chain (Absence / COI):** 1st Acting for Transportation & Infrastructure; Portfolio backup: 1st Caroline Elliott, 2nd Bruce Banman ([[05_Primary_Sources/OIC/OIC_0422_2026|OIC 422/2026]])
+- **Cabinet Committees:** Committee on Public Safety and Justice; Working Group on Wildfire Response ([[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]])
+- **Senior Staff / Deputy:** Chief of Staff: Kathryn Elizabeth Marland ([[05_Primary_Sources/OIC/OIC_0431_2026|OIC 431/2026]]); PS: Rosalyn Bird & Bryan Tepper ([[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]])
+- **Official Directory & Releases:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] | [[05_Primary_Sources/News_Releases/2026PREM0069-001142|Nov 20 Cabinet Release]] | [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+<!-- OIC_PROVENANCE_END -->

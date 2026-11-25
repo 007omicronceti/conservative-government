@@ -34,3 +34,11 @@ PSEC sets and enforces provincial bargaining mandates and executive compensation
 - Matched `FRSearch.aspx` rows: **1**
 - DAVISON, JAMES | 2024 GENERAL ELECTION FINANCING REPORT | INDEPENDENT | CANDIDATE | ABBOTSFORD WEST | Redist R2023 VA (BS11)
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** Appointed under *Public Service Act* s. 12 via [[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]] (Approved and Ordered November 20, 2026).
+- **Official Directory Mirror:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] (`SHA-256: 33fe8362...`)
+- **Transition Index:** [[04_Dossiers/OIC/November_2026_Transition_OICs|November 19–24, 2026 Transition OICs]]
+<!-- OIC_PROVENANCE_END -->

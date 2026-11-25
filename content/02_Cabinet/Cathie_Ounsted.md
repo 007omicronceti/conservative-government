@@ -38,3 +38,13 @@ tags:
 
 ## 2026 Mandate Letter
 - [[05_Primary_Sources/Mandate_Letters/Cathie_Ounsted_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] (Minister of Local Government, Housing, Sport and Culture)
+- **Acting Minister Chain (Absence / COI):** 1st Acting for Citizens' Services; Portfolio backup: 1st A'a:liya Warbus, 2nd Korky Neufeld ([[05_Primary_Sources/OIC/OIC_0422_2026|OIC 422/2026]])
+- **Cabinet Committees:** Member, **Treasury Board** ([[05_Primary_Sources/OIC/OIC_0424_2026|OIC 424/2026]])
+- **Senior Staff / Deputy:** Chief of Staff: Jack Santiago Alarie ([[05_Primary_Sources/OIC/OIC_0431_2026|OIC 431/2026]]); PS: Megan Knight & Mandeep Dhaliwal ([[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]])
+- **Official Directory & Releases:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] | [[05_Primary_Sources/News_Releases/2026PREM0069-001142|Nov 20 Cabinet Release]] | [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+<!-- OIC_PROVENANCE_END -->

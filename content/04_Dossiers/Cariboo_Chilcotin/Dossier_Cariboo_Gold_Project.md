@@ -41,3 +41,12 @@ tags:
 ### Local Archived Receipts (Offline / Quartz Static)
 - [Cariboo Gold Strike Mandate — CKPG (Nov 16, 2026)](/static/sources/Cariboo_Chilcotin/Cariboo_Gold_Strike_Mandate_CKPG_2026-11-16.html)
 - [Cariboo Gold EAO EPIC Record](/static/sources/Cariboo_Chilcotin/Cariboo_Gold_EAO_EPIC.html)
+
+<!-- CARIBOO_CROSSWIRE_START -->
+## Primary Source Cross-Wiring (Nov 20–24, 2026 OICs & Mandate Letters)
+
+- **Nov 24 Mandate Letters:** [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+- **OIC Governance:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] (Hon. Larry Neufeld, Minister of Energy & Mines; Hon. Pete Davis, MoS Mining; Hon. Korky Neufeld, Labour); [[05_Primary_Sources/OIC/OIC_0423_2026|OIC 423/2026]] seats both Neufeld and Davis on the **Environment and Land Use Committee (ELUC)**.
+- **Cabinet Working Group:** Overseen by the newly created **Working Group on Major Projects and Investment** ([[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]]).
+- **Deputy Ministers:** [[03_Deputy_Ministers/Nate_Amann-Blake]] (EMPR), [[03_Deputy_Ministers/Lori_Halls]] (Chief EAO), and [[03_Deputy_Ministers/Trevor_Hughes]] (Labour) appointed via [[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]].
+<!-- CARIBOO_CROSSWIRE_END -->

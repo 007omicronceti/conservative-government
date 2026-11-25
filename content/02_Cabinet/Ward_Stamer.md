@@ -191,3 +191,13 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 
 ## 2026 Mandate Letter
 - [[05_Primary_Sources/Mandate_Letters/Ward_Stamer_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] (Minister of State for Emergency Management — official without portfolio)
+- **Acting Minister Chain (Absence / COI):** Operates within PSSG / EMBC statutory framework ([[05_Primary_Sources/OIC/OIC_0421_2026|OIC 421/2026]])
+- **Cabinet Committees:** Working Group on Wildfire Response ([[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]])
+- **Senior Staff / Deputy:** Deputy Minister EMBC: [[03_Deputy_Ministers/Lorie_Hrycuik]] ([[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]])
+- **Official Directory & Releases:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] | [[05_Primary_Sources/News_Releases/2026PREM0069-001142|Nov 20 Cabinet Release]] | [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+<!-- OIC_PROVENANCE_END -->

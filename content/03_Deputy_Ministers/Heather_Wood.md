@@ -34,3 +34,11 @@ tags: [deputy-minister, finance, budget, treasury-board]
 ## Public Accounts 2025/26
 - **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$341,016** | Travel: **$24,133**
 - Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Heather_Wood Public Accounts Breakdown]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** Appointed Deputy Minister of Finance ([[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]]) AND **Secretary to Treasury Board** ([[05_Primary_Sources/OIC/OIC_0429_2026|OIC 429/2026]], replacing Douglas Scott & Acting Secretary Jonathan Dube).
+- **Official Directory Mirror:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] (`SHA-256: 33fe8362...`)
+- **Transition Index:** [[04_Dossiers/OIC/November_2026_Transition_OICs|November 19–24, 2026 Transition OICs]]
+<!-- OIC_PROVENANCE_END -->

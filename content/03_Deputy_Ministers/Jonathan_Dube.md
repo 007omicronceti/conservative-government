@@ -32,3 +32,11 @@ tags:
 ## Public Accounts 2025/26
 - **p.13 — Deputy Ministers Salary & Travel:** Salary & Other Compensation: **$256,691** | Travel: **—**
 - Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Jonathan_Dube Public Accounts Breakdown]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** Rescinded as Acting Secretary & Deputy Secretary to Treasury Board ([[05_Primary_Sources/OIC/OIC_0429_2026|OIC 429/2026]]); appointed Deputy Minister, Local Government, Housing, Sport and Culture ([[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]]).
+- **Official Directory Mirror:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] (`SHA-256: 33fe8362...`)
+- **Transition Index:** [[04_Dossiers/OIC/November_2026_Transition_OICs|November 19–24, 2026 Transition OICs]]
+<!-- OIC_PROVENANCE_END -->

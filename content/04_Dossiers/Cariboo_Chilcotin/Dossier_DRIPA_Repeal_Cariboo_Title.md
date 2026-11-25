@@ -37,3 +37,11 @@ tags:
 - [Hansard — Scott McInnis on DRIPA (Apr 13, 2026)](/static/sources/Cariboo_Chilcotin/Hansard_2026-04-13_McInnis_DRIPA.html)
 - [FNLC 2026 Election Package on DRIPA](/static/sources/Cariboo_Chilcotin/FNLC_2026_Election_Package_DRIPA.pdf)
 - [NCLGA 2026 Resolutions](/static/sources/Cariboo_Chilcotin/NCLGA_2026_Resolutions.html)
+
+<!-- CARIBOO_CROSSWIRE_START -->
+## Primary Source Cross-Wiring (Nov 20–24, 2026 OICs & Mandate Letters)
+
+- **Nov 24 Mandate Letters:** [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+- **OIC Restructurings:** [[05_Primary_Sources/OIC/OIC_0428_2026|OIC 428/2026]] rescinded Denise Devenny as ADM of the **Declaration Act Secretariat** in MIRR; [[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]] established the **Committee on Indigenous Partnerships**.
+- **Statutory & Treasury Control:** [[02_Cabinet/Donegal_Wilson]] chairs **ELUC** ([[05_Primary_Sources/OIC/OIC_0423_2026|OIC 423/2026]]); [[02_Cabinet/Scott_McInnis]] (MIRR) sits on **Treasury Board** ([[05_Primary_Sources/OIC/OIC_0424_2026|OIC 424/2026]]); [[03_Deputy_Ministers/Geoff_Cowper]] (Deputy AG) and [[03_Deputy_Ministers/Alex_MacLennan]] (DM MIRR) appointed via [[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]].
+<!-- CARIBOO_CROSSWIRE_END -->

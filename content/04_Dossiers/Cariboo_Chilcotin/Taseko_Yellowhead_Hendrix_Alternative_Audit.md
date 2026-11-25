@@ -15,3 +15,10 @@ tags: [infrastructure, taseko, yellowhead_copper, transmission_line, ndit, inter
    * CRD Chair Margo Wagner phoned Pinkney the morning news broke and contacted the press to counter McLean's statements, invoking her authority as NDIT Chair to claim regional development trusts would not fund such alternatives.
    * CCCTA CEO Amy Thacker publicly stated the tourism association had taken no stance on funding feasibility.
 4. **Director Support:** CRD Area L Director Eric De Vries formally wrote to provincial ministers Adrian Dix and Jagrup Brar calling the McLean alternative technically viable to prevent utility fragmentation of the Interlakes.
+
+<!-- CARIBOO_CROSSWIRE_START -->
+## Primary Source Cross-Wiring (Nov 20–24, 2026 OICs & Mandate Letters)
+
+- **Nov 24 Mandate Letters:** [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+- **OIC Transition Authorities:** [[04_Dossiers/OIC/November_2026_Transition_OICs|November 19–24, 2026 Transition OICs (0418–0438)]] | [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]]
+<!-- CARIBOO_CROSSWIRE_END -->

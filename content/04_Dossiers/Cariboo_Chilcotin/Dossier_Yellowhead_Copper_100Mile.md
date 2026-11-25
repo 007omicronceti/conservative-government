@@ -47,3 +47,12 @@ tags:
 
 ## Related Field Audits
 - [[04_Dossiers/Cariboo_Chilcotin/Taseko_Yellowhead_Hendrix_Alternative_Audit|Taseko Yellowhead 230-kV Alternate Routing Audit]]
+
+<!-- CARIBOO_CROSSWIRE_START -->
+## Primary Source Cross-Wiring (Nov 20–24, 2026 OICs & Mandate Letters)
+
+- **Nov 24 Mandate Letters:** [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+- **OIC Governance & COI Chain:** [[05_Primary_Sources/OIC/OIC_0422_2026|OIC 422/2026]] designates Forests Minister [[02_Cabinet/Kiel_Giddens]] as **1st Acting Minister** for Energy & Mines (and Econ Dev Minister Gavin Dew as 1st Acting for Forests). Both Giddens and Larry Neufeld sit on **ELUC** ([[05_Primary_Sources/OIC/OIC_0423_2026|OIC 423/2026]]).
+- **Cabinet Working Group:** Routed through the **Working Group on Major Projects and Investment** ([[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]]).
+- **Deputy Ministers:** [[03_Deputy_Ministers/Nate_Amann-Blake]] (EMPR), [[03_Deputy_Ministers/Janis_Simpkins]] (Forests), and [[03_Deputy_Ministers/Lori_Halls]] (Chief EAO) appointed via [[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]].
+<!-- CARIBOO_CROSSWIRE_END -->

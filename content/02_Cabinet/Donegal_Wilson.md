@@ -120,3 +120,13 @@ LIABILITIES
 
 ## 2026 Mandate Letter
 - [[05_Primary_Sources/Mandate_Letters/Donegal_Wilson_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] (Minister of Water, Land and Natural Resource Operations)
+- **Acting Minister Chain (Absence / COI):** 1st Acting for Agriculture; 2nd Acting for Forests; Portfolio backup: 1st Bruce Banman, 2nd A'a:liya Warbus ([[05_Primary_Sources/OIC/OIC_0422_2026|OIC 422/2026]])
+- **Cabinet Committees:** **Chair, Environment and Land Use Committee (ELUC)** ([[05_Primary_Sources/OIC/OIC_0423_2026|OIC 423/2026]])
+- **Senior Staff / Deputy:** Deputy Minister: [[03_Deputy_Ministers/Kevin_Jardine]] ([[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]])
+- **Official Directory & Releases:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] | [[05_Primary_Sources/News_Releases/2026PREM0069-001142|Nov 20 Cabinet Release]] | [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+<!-- OIC_PROVENANCE_END -->

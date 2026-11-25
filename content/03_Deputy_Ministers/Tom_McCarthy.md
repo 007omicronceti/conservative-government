@@ -39,3 +39,11 @@ tags:
 ## Elections BC Contributions
 - `SA1ASearch.aspx`: **9** rows (**$2,100.00**) | `SA1Search.aspx`: **9** rows (**$2,100.00**)
 - Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Tom_McCarthy Elections BC Matches]]
+
+<!-- OIC_PROVENANCE_START -->
+## Primary Source & OIC Appointment Provenance (Nov 2026)
+
+- **Appointment Instrument:** Appointed under *Public Service Act* s. 12 via [[05_Primary_Sources/OIC/OIC_0427_2026|OIC 427/2026]] (Approved and Ordered November 20, 2026).
+- **Official Directory Mirror:** [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Ministries2026.pdf]] (`SHA-256: 33fe8362...`)
+- **Transition Index:** [[04_Dossiers/OIC/November_2026_Transition_OICs|November 19–24, 2026 Transition OICs]]
+<!-- OIC_PROVENANCE_END -->

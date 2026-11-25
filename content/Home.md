@@ -1,9 +1,12 @@
 ---
-date: 2026-11-20
+date: 2026-11-25
 ---
 
 # B.C. Conservative Government OSINT Vault
 - [[00_Index/Master_Roster_2026|Master Roster 2026]]
+- [[00_Index/Cariboo_Chilcotin_Power_Map|Cariboo-Chilcotin Power Map]]
+- [[04_Dossiers/OIC/November_2026_Transition_OICs|November 2026 Transition OICs (0418–0438)]]
+- [[04_Dossiers/OIC/OIC_2026_Index|2026 Orders in Council Index (0390–0438)]]
 - [[04_Dossiers/Cariboo_Chilcotin/Dossier_Cariboo_Gold_Project|Cariboo Gold]]
 - [[04_Dossiers/Cariboo_Chilcotin/Dossier_Yellowhead_Copper_100Mile|Yellowhead Copper]]
 - [[04_Dossiers/Cariboo_Chilcotin/Dossier_Tolko_Cariboo_Timber|Tolko Timber]]
@@ -18,12 +21,18 @@ date: 2026-11-20
 
 ## Directories
 - `01_Ministries/` (19)
-- `02_Cabinet/` (25)
+- `02_Cabinet/` (26)
 - `03_Deputy_Ministers/` (24)
-- `04_Dossiers/` (3)
+- `04_Dossiers/` (OIC, Cariboo-Chilcotin, ORL, Elections BC, Public Accounts)
 - `05_Primary_Sources/PDS/` (68)
+- `05_Primary_Sources/Mandate_Letters/` (24)
+- `05_Primary_Sources/OIC/` (49)
 
-### New OSINT Dossiers & Audits (2025/26)
+### Primary Sources & Audits (Nov 2026)
+- [[05_Primary_Sources/Ministries/Ministries_and_Deputy_Ministers_2026|Official Ministries & Deputy Ministers Directory (Ministries2026.pdf)]]
+- [[05_Primary_Sources/News_Releases/2026PREM0069-001142|Nov 20, 2026 Cabinet Swearing-In Release (2026PREM0069-001142)]]
+- [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24, 2026 Mandate Letters Release (2026PREM0072-001146)]]
+- [[05_Primary_Sources/PROVENANCE_2026|Primary Sources SHA-256 Provenance Manifest]]
 - [[00_Index/Coverage_Gap_Audit_2026|Coverage Gap Audit 2026]]
 - [[00_Index/PDS_Gap_Breakdown_2026|PDS / COI Filing Gap Breakdown 2026]]
 - [[04_Dossiers/Public_Accounts/Travel_and_Allowances_Ranking_2025_26|2025/26 Travel, Compensation & Allowances Ranking]]

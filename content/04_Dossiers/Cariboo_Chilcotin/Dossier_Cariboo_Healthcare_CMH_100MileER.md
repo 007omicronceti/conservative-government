@@ -37,3 +37,11 @@ tags: [healthcare, cariboo-memorial-hospital, 100-mile-house, interior-health]
 
 ## Related Field Audits
 - [[04_Dossiers/Cariboo_Chilcotin/Hospital_ER_Crisis_Dossier|100 Mile District General Hospital ER Closures Dossier]]
+
+<!-- CARIBOO_CROSSWIRE_START -->
+## Primary Source Cross-Wiring (Nov 20–24, 2026 OICs & Mandate Letters)
+
+- **Nov 24 Mandate Letters:** [[05_Primary_Sources/News_Releases/2026PREM0072-001146|Nov 24 Mandate Letters Release]]
+- **OIC Governance:** [[05_Primary_Sources/OIC/OIC_0420_2026|OIC 420/2026]] appoints [[02_Cabinet/Ryan_Peterson]] as Minister of Health alongside **Tracy St. Claire** (Parliamentary Secretary for Rural Health) and **Sharon Hartwell** (PS for Seniors).
+- **Treasury Board & Cabinet Committee:** Peterson sits directly on **Treasury Board** ([[05_Primary_Sources/OIC/OIC_0424_2026|OIC 424/2026]]) and the **Committee on Health and Social Services** ([[05_Primary_Sources/OIC/OIC_0425_2026|OIC 425/2026]]), with Finance Minister [[02_Cabinet/Peter_Milobar]] as 1st Acting Minister ([[05_Primary_Sources/OIC/OIC_0422_2026|OIC 422/2026]]).
+<!-- CARIBOO_CROSSWIRE_END -->
