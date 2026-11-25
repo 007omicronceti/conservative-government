@@ -27,3 +27,7 @@ title: "Lorne Doerkson — Cariboo-Chilcotin Riding & Cabinet Links"
 ## Nov. 25, 2026 Specific Directives
 - Attorney General Caroline Elliott tasked with introducing a Property Rights Defence Act.
 - Education Minister Lynne Block directed to replace SOGI 123, alongside a government-wide review of recent provincial policy changes and restoring the online provincial staff directory.
+
+## Nov. 25, 2026 First Cabinet Meeting & Key Portfolios
+- Premier Lorne Doerkson chaired his first official cabinet meeting in Victoria on Nov. 25, 2026 following the Nov. 24 evening release of ministerial mandate letters.
+- Key assignments include Health Minister Ryan Peterson (universal health-care guarantee), Finance Minister Peter Milobar (independent fiscal panel and ministry staffing review), Environment Minister Áʼa:líya Warbus (ending ZEV sales quota and repealing CleanBC), Minister of State for Rural Development Anna Kindy, and Rural Health Parliamentary Secretary Tracy St. Claire.

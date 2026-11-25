@@ -17,3 +17,7 @@ title: "Cariboo Regional District — Solid Waste & Governance"
 ## Rural Site Access, Diversion Centre & ICI Pilots
 - Evaluating gated access and adjusted operating hours for unstaffed rural refuse sites under Function 1008.
 - Advancing feasibility work for a one-stop regional Diversion Centre alongside Industrial/Commercial/Institutional (ICI) packaging and paper recycling pilots.
+
+## Nov. 2026 CRD Board Leadership & Regional Actions
+- 2026-2030 CRD Board sworn in Nov. 12, 2026; Margo Wagner elected Chair and Tolin Pare Vice-Chair on Nov. 13, with Steve Forseth elected CCRHD Acting Chair alongside Chair Al Richmond through Jan. 2027.
+- Board approved a joint letter with member municipalities to Rogers Communications over recurring cell/internet outages; South Cariboo Joint Committee met Nov. 23 in 100 Mile House ahead of Dec. 3-4 CRD/CCRHD meetings.
