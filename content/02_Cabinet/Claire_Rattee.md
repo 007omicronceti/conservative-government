@@ -159,3 +159,7 @@ $750.00. Subsequent years' Guest Membership is waiver of annual membership dues 
 ## Public Accounts 2025/26
 - **p.11 — Members' Compensation:** Base/MLA Comp: **$119,205** | Capital City Living Allowance: **$31,035** | Travel: **$76,470**
 - Full schedules: [[04_Dossiers/Public_Accounts/Cabinet_DM_Public_Accounts_Layout|Claire_Rattee Public Accounts Breakdown]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Claire_Rattee_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

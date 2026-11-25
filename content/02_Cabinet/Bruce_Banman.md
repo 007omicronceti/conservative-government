@@ -133,3 +133,7 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 - BANMAN, RICHARD | 2026 CONSERVATIVE PARTY LEADERSHIP CONTESTANT REPORT | CONSERVATIVE PARTY | LEADERSHIP CONTESTANT
 - BANMAN, RICHARD | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | ABBOTSFORD SOUTH | Redist R2023 VA (BS11)
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Bruce_Banman_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

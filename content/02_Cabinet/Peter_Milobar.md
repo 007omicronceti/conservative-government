@@ -138,3 +138,7 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 - MILOBAR, PETER | 2017 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | KAMLOOPS-NORTH THOMPSON | 2015
 - MILOBAR, PETER | 2026 CONSERVATIVE PARTY LEADERSHIP CONTESTANT REPORT | CONSERVATIVE PARTY | LEADERSHIP CONTESTANT
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Peter_Milobar_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

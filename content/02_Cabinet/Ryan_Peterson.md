@@ -43,3 +43,7 @@ tags:
 - Matched `FRSearch.aspx` rows: **1**
 - PETERSON, RICK | 2014 CONSERVATIVE LEADERSHIP CONTESTANT REPORT | CONSERVATIVE PARTY | LEADERSHIP CONTESTANT
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Ryan_Peterson_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

@@ -108,3 +108,7 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 - HALFORD, TREVOR | 2024 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | SURREY-WHITE ROCK | Redist R2023 VA (BS11)
 - HALFORD, TREVOR | 2020 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | SURREY-WHITE ROCK | 2015
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Trevor_Halford_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

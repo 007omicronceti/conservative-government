@@ -39,3 +39,7 @@ tags:
 ## Elections BC Contributions
 - `SA1Search.aspx`: **2** rows (**$310.00**)
 - Full sweep: [[04_Dossiers/Elections_BC/Cabinet_DM_Elections_BC_Sweep|Jessy_Sahota Elections BC Matches]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Jessy_Sahota_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

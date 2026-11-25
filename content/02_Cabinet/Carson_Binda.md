@@ -30,3 +30,7 @@ tags:
 ## Original Source Articles
 1. [B.C. Conservatives appoint 24-member cabinet as Lorne Doerkson focuses on regions — Vancouver Sun (2026-11-20)](https://vancouversun.com/news/bc-conservatives-appoint-cabinet-as-doerkson-focuses-on-regional-representation)
 2. [New B.C. government announces its 1st cabinet — CBC News (2026-11-20)](https://www.cbc.ca/news/canada/british-columbia/premier-cabinet-sworn-in-conservative-9.7429384)
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Carson_Binda_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

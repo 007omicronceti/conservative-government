@@ -222,3 +222,7 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 - DEW, GAVIN | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | KELOWNA-MISSION | Redist R2023 VA (BS11)
 - DEW, GAVIN | 2016 VANCOUVER-MOUNT PLEASANT BY-ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | VANCOUVER-MOUNT PLEASANT | 2008
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Gavin_Dew_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

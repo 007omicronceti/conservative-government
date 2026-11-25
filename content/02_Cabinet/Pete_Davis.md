@@ -105,3 +105,7 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 - Matched `FRSearch.aspx` rows: **1**
 - DAVIS, PETE | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | KOOTENAY-ROCKIES | Redist R2023 VA (BS11)
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Pete_Davis_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

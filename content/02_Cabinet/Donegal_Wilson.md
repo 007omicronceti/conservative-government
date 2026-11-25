@@ -116,3 +116,7 @@ LIABILITIES
 - Matched `FRSearch.aspx` rows: **1**
 - WILSON, DONEGAL | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | BOUNDARY-SIMILKAMEEN | Redist R2023 VA (BS11)
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Donegal_Wilson_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

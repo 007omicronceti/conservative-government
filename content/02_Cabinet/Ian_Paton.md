@@ -154,3 +154,7 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 - PATON, IAN | 2024 GENERAL ELECTION FINANCING REPORT | BC UNITED (FORMERLY BC LIBERAL PARTY) | CANDIDATE | DELTA SOUTH | Redist R2023 VA (BS11)
 - PATON, IAN | 2024 GENERAL ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | DELTA SOUTH | Redist R2023 VA (BS11)
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Ian_Paton_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]

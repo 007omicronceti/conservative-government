@@ -149,3 +149,7 @@ Filed with the Clerk of the Legislative Assembly this 26th day of May, 2026.
 - BHANGU, HARMANPAL | 2022 SURREY SOUTH BY-ELECTION FINANCING REPORT | CONSERVATIVE PARTY | CANDIDATE | SURREY SOUTH | 2015
 - BHANGU, HARMANPAL | 2026 CONSERVATIVE PARTY LEADERSHIP CONTESTANT REPORT | CONSERVATIVE PARTY | LEADERSHIP CONTESTANT
 - Full sweep: [[04_Dossiers/Elections_BC/FRSearch_Sweep|Elections BC FRSearch Sweep]]
+
+
+## 2026 Mandate Letter
+- [[05_Primary_Sources/Mandate_Letters/Harman_Bhangu_Mandate_Letter_2026|Official Mandate Letter (November 24, 2026)]]
